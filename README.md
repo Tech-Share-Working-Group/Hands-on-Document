@@ -14,7 +14,7 @@
 
 </br>
 
-| 作成済 | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 |
+| ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 |
 | ---- | ---- | ----  | ---- | ---- | ---- |
 | | Practice-Java-Bronze | Java | None | 〇 | 〇 |
 | | Practice-Java-Silver | Java | SE17~ | 〇 | 〇 |
@@ -38,7 +38,7 @@
 
 </br>
 
-| 作成済 | Repository Name | ライブライ名 | 分野 |  バージョン | 構築手順 | 簡易操作手順 |
+| ステータス | Repository Name | ライブライ名 | 分野 |  バージョン | 構築手順 | 簡易操作手順 |
 | ---- | ---- | ----  | ---- | ---- | ---- | ---- |
 | | Practice-Python-std_libraries | Mumpy, Pandas, Matplotlib, Seaborn, scipy, csv, etc... | データ処理ライブラリ | None | 〇 | 〇 |
 | | Practice-Python-OpenCV | OpenCV | 画像 | 4.11系 | 〇 | 〇 |
@@ -55,7 +55,7 @@
 
 </br>
 
-| 作成済 | Repository Name | メイン言語 | フレームワーク | DB | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ |
+| ステータス | Repository Name | メイン言語 | フレームワーク | DB | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ |
 | ---- | ---- | ----  | ---- | ----  | ---- | ---- | ---- | ----  |
 | | Practice-Java-Servlet | Java | Servlet | 任意DB | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Java-SpringFramework | Java | Spring Framework | 任意DB | 〇 | 〇 | 〇 | 〇 |
@@ -64,7 +64,7 @@
 
 </br>
 
-| 作成済 | Repository Name | メイン言語 | フレームワーク | DB | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ |
+| ステータス | Repository Name | メイン言語 | フレームワーク | DB | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ |
 | ---- | ---- | ----  | ---- | ----  | ---- | ---- | ---- | ----  |
 | | Practice-JavaScript-Express | JavaScript | Express | 任意DB | 〇 | 〇 | 〇 | 〇 |
 | | Practice-JavaScript-React | JavaScript | React | 任意DB | 〇 | 〇 | 〇 | 〇 |
@@ -94,12 +94,12 @@
 
 </br>
 
-| 作成済 | Repository Name | メインツール | その他 | 構築手順 | 簡易操作手順 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Maven-Gradle-Ant | Maven, Gradle, Ant | 〇 | 〇 | 〇 |
-| | Practice-JUnit | Maven, Gradle, Ant | 〇 | 〇 | 〇 |
-| | Practice-Node | Node | 〇 | 〇 | 〇 |
-| | Practice-Poetry-Pyenv-Virtualenv | Poetry, Pyenv-virtualenv | 〇 | 〇 | 〇 |
+| ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 |
+| ---- | ---- | ---- | ---- | ---- |
+| | Practice-Maven-Gradle-Ant | Maven, Gradle, Ant | 〇 | 〇 |
+| | Practice-JUnit | Maven, Gradle, Ant | 〇 | 〇 |
+| | Practice-Node | Node | 〇 | 〇 |
+| | Practice-Poetry-Pyenv-Virtualenv | Poetry, Pyenv-virtualenv | 〇 | 〇 |
 
 </br>
 
@@ -107,22 +107,22 @@
 
 </br>
 
-| 作成済 | Repository Name | メインツール | その他 | 構築手順 | 簡易操作手順 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Docker | Docker | 〇 | 〇 | 〇 |
-| | Practice-Oracle_Master_Bronze | Oracle | 〇 | 〇 | 〇 |
-| | Practice-Oracle_Master_Silver | Oracle | 〇 | 〇 | 〇 |
-| | Practice-Oracle_Master_Gold | Oracle | 〇 | 〇 | 〇 |
-| | Practice-MySQL | MySQL | 〇 | 〇 | 〇 |
-| | Practice-PostgreSQL | PostgreSQL | 〇 | 〇 | 〇 |
-| | Practice-SQLite | SQLite | 〇 | 〇 | 〇 |
-| | Practice-Git | Git | 〇 | 〇 | 〇 |
-| | Practice-Linux-level1 | Linux | 〇 | 〇 | 〇 |
-| | Practice-Linux-level2 | Linux | 〇 | 〇 | 〇 |
-| | Practice-Linux-level3 | Linux | 〇 | 〇 | 〇 |
-| | Practice-Jenkins | Jenkins | 〇 | 〇 | 〇 |
-| | Practice-Kubernetes | Kubernetes | 〇 | 〇 | 〇 |
-| | Practice-Terraform | Terraform | 〇 | 〇 | 〇 |
+| ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 |
+| ---- | ---- | ---- | ---- | ---- |
+| | Practice-Docker | Docker | 〇 | 〇 |
+| | Practice-Oracle_Master_Bronze | Oracle | 〇 | 〇 |
+| | Practice-Oracle_Master_Silver | Oracle | 〇 | 〇 |
+| | Practice-Oracle_Master_Gold | Oracle | 〇 | 〇 |
+| | Practice-MySQL | MySQL | 〇 | 〇 |
+| | Practice-PostgreSQL | PostgreSQL | 〇 | 〇 |
+| | Practice-SQLite | SQLite | 〇 | 〇 |
+| | Practice-Git | Git | 〇 | 〇 |
+| | Practice-Linux-level1 | Linux | 〇 | 〇 |
+| | Practice-Linux-level2 | Linux | 〇 | 〇 |
+| | Practice-Linux-level3 | Linux | 〇 | 〇 |
+| | Practice-Jenkins | Jenkins | 〇 | 〇 |
+| | Practice-Kubernetes | Kubernetes | 〇 | 〇 |
+| | Practice-Terraform | Terraform | 〇 | 〇 |
 
 
 </br>
