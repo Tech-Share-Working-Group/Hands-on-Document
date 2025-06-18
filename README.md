@@ -45,7 +45,9 @@
 | | Practice-Python-ScikitLearn | scikit-learn | 機械学習ツール | 1.4系 | 〇 | 〇 |
 | | Practice-Python-Tensorflow | tensorflow | 機械学習ツール | 2.1系 | 〇 | 〇 |
 | | Practice-Python-PyTorch | PyTorch | 機械学習ツール | 2.2系 | 〇 | 〇 |
-| | Practice-Python-Image-Processing | MediaPipe, yolo v11, etc... | 画像 | None | 〇 | 〇 |
+| | Practice-Python-Image-Processing-lib | MediaPipe, yolo v11, etc... | 画像 | None | 〇 | 〇 |
+| | Practice-Python-Image-Processing-Arch | CNN, ViT etc... | 画像 | None | 〇 | 〇 |
+| | Practice-Python-GAN | StyleGan, etc... | 画像 | None | 〇 | 〇 |
 | | Practice-Python-NLP | spaCy, Transformers, gensim, etc... | 自然言語 | None | 〇 | 〇 |
 | | Practice-Python-PyG | Pytorch-Geometric | ネットワーク | None | 〇 | 〇 |
 
