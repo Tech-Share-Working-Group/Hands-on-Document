@@ -109,9 +109,13 @@
 | | Practice-PostgreSQL | PostgreSQL | 〇 | 〇 | 〇 | 〇 |
 | | Practice-SQLite | SQLite | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Git | Git | 〇 | 〇 | 〇 | 〇 |
+| | Practice-Linux-level1 | Linux | 〇 | 〇 | 〇 | 〇 |
+| | Practice-Linux-level2 | Linux | 〇 | 〇 | 〇 | 〇 |
+| | Practice-Linux-level3 | Linux | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Jenkins | Jenkins | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Kubernetes | Kubernetes | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Terraform | Terraform | 〇 | 〇 | 〇 | 〇 |
+
 
 </br>
 
