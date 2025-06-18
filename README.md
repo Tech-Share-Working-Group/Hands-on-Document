@@ -74,8 +74,11 @@
 | | Practice-TypeScript-Vue | TypeScript | Vue | 任意DB | 〇 | 〇 | 〇 | 〇 |
 | | Practice-TypeScript-Nuxt | TypeScript | Vue | 任意DB | 〇 | 〇 | 〇 | 〇 |
 | | Practice-TypeScript-Svelt | TypeScript | Svelt | 任意DB | 〇 | 〇 | 〇 | 〇 |
+| | Practice-TypeScript-Angular | TypeScript | Angular | 任意DB | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Python-Flask | Python | Flask | 任意DB | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Python-Django | Python | Django | 任意DB | 〇 | 〇 | 〇 | 〇 |
+| | Practice-Python-FastAPI | Python | FastAPI | 任意DB | 〇 | 〇 | 〇 | 〇 |
+| | Practice-Python-Bottle | Python | Bottle | 任意DB | 〇 | 〇 | 〇 | 〇 |
 
 </br>
 
@@ -108,6 +111,7 @@
 | | Practice-Git | Git | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Jenkins | Jenkins | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Kubernetes | Kubernetes | 〇 | 〇 | 〇 | 〇 |
+| | Practice-Terraform | Terraform | 〇 | 〇 | 〇 | 〇 |
 
 </br>
 
