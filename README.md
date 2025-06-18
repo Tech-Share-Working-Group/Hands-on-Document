@@ -54,7 +54,7 @@
 | | Practice-Java-Servlet | Java | Servlet | 任意DB | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Java-SpringFramework | Java | Spring Framework | 任意DB | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Java-SpringBoot | Java | Spring Boot | 任意DB | 〇 | 〇 | 〇 | 〇 |
-| | Practice-JavaScript-jQuert| JavaScript | jQuert | None | 〇 | 〇 | 〇 |  |
+| | Practice-JavaScript-jQuert| JavaScript | jQuert | None | 〇 | 〇 | 〇 | None |
 
 </br>
 
