@@ -85,6 +85,8 @@
 | | Practice-Python-Django | Python | Django | 任意DB | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Python-FastAPI | Python | FastAPI | 任意DB | 〇 | 〇 | 〇 | 〇 |
 | | Practice-Python-Bottle | Python | Bottle | 任意DB | 〇 | 〇 | 〇 | 〇 |
+| | Practice-Go-Gin | Go | Gin | 任意DB | 〇 | 〇 | 〇 | 〇 |
+| | Practice-Kotlin-SpringBoot | Kotlin | Spring Boot | 任意DB | 〇 | 〇 | 〇 | 〇 |
 
 </br>
 
@@ -92,12 +94,12 @@
 
 </br>
 
-| 作成済 | Repository Name | メインツール | その他 | 構築手順 | 簡易操作手順 | 実践操作手順 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
-| | Practice-Maven-Gradle-Ant | Maven, Gradle, Ant | 〇 | 〇 | 〇 | 〇 |
-| | Practice-JUnit | Maven, Gradle, Ant | 〇 | 〇 | 〇 | 〇 |
-| | Practice-Node | Node | 〇 | 〇 | 〇 | 〇 |
-| | Practice-Poetry-Pyenv-Virtualenv | Poetry, Pyenv-virtualenv | 〇 | 〇 | 〇 | 〇 |
+| 作成済 | Repository Name | メインツール | その他 | 構築手順 | 簡易操作手順 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-Maven-Gradle-Ant | Maven, Gradle, Ant | 〇 | 〇 | 〇 |
+| | Practice-JUnit | Maven, Gradle, Ant | 〇 | 〇 | 〇 |
+| | Practice-Node | Node | 〇 | 〇 | 〇 |
+| | Practice-Poetry-Pyenv-Virtualenv | Poetry, Pyenv-virtualenv | 〇 | 〇 | 〇 |
 
 </br>
 
@@ -105,22 +107,22 @@
 
 </br>
 
-| 作成済 | Repository Name | メインツール | その他 | 構築手順 | 簡易操作手順 | 実践操作手順 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
-| | Practice-Docker | Docker | 〇 | 〇 | 〇 | 〇 |
-| | Practice-Oracle_Master_Bronze | Oracle | 〇 | 〇 | 〇 | 〇 |
-| | Practice-Oracle_Master_Silver | Oracle | 〇 | 〇 | 〇 | 〇 |
-| | Practice-Oracle_Master_Gold | Oracle | 〇 | 〇 | 〇 | 〇 |
-| | Practice-MySQL | MySQL | 〇 | 〇 | 〇 | 〇 |
-| | Practice-PostgreSQL | PostgreSQL | 〇 | 〇 | 〇 | 〇 |
-| | Practice-SQLite | SQLite | 〇 | 〇 | 〇 | 〇 |
-| | Practice-Git | Git | 〇 | 〇 | 〇 | 〇 |
-| | Practice-Linux-level1 | Linux | 〇 | 〇 | 〇 | 〇 |
-| | Practice-Linux-level2 | Linux | 〇 | 〇 | 〇 | 〇 |
-| | Practice-Linux-level3 | Linux | 〇 | 〇 | 〇 | 〇 |
-| | Practice-Jenkins | Jenkins | 〇 | 〇 | 〇 | 〇 |
-| | Practice-Kubernetes | Kubernetes | 〇 | 〇 | 〇 | 〇 |
-| | Practice-Terraform | Terraform | 〇 | 〇 | 〇 | 〇 |
+| 作成済 | Repository Name | メインツール | その他 | 構築手順 | 簡易操作手順 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-Docker | Docker | 〇 | 〇 | 〇 |
+| | Practice-Oracle_Master_Bronze | Oracle | 〇 | 〇 | 〇 |
+| | Practice-Oracle_Master_Silver | Oracle | 〇 | 〇 | 〇 |
+| | Practice-Oracle_Master_Gold | Oracle | 〇 | 〇 | 〇 |
+| | Practice-MySQL | MySQL | 〇 | 〇 | 〇 |
+| | Practice-PostgreSQL | PostgreSQL | 〇 | 〇 | 〇 |
+| | Practice-SQLite | SQLite | 〇 | 〇 | 〇 |
+| | Practice-Git | Git | 〇 | 〇 | 〇 |
+| | Practice-Linux-level1 | Linux | 〇 | 〇 | 〇 |
+| | Practice-Linux-level2 | Linux | 〇 | 〇 | 〇 |
+| | Practice-Linux-level3 | Linux | 〇 | 〇 | 〇 |
+| | Practice-Jenkins | Jenkins | 〇 | 〇 | 〇 |
+| | Practice-Kubernetes | Kubernetes | 〇 | 〇 | 〇 |
+| | Practice-Terraform | Terraform | 〇 | 〇 | 〇 |
 
 
 </br>
