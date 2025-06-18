@@ -19,12 +19,18 @@
 | | Practice-Java-Bronze | Java | None | 〇 | 〇 |
 | | Practice-Java-Silver | Java | SE17~ | 〇 | 〇 |
 | | Practice-Java-Gold | Java | SE17~ | 〇 | 〇 |
+| | Practice-SQL-Silver | SQL | None | 〇 | 〇 |
 | | Practice-JavaScript | JavaScript | ES6~ | 〇 | 〇 |
 | | Practice-VBA | VBA | None | 〇 | 〇 |
 | | Practice-Shell | bat,  ksh, etc... | None | 〇 | 〇 |
 | | Practice-Cobol | Cobol | 3.2 | 〇 | 〇 |
 | | Practice-TypeScript | TypeScript | 5.8系~ | 〇 | 〇 |
 | | Practice-Python | Python | 3.12~ | 〇 | 〇 |
+| | Practice-C-lang | C言語 | C11~ | 〇 | 〇 |
+| | Practice-Cpp | C++ | C++17~ | 〇 | 〇 |
+| | Practice-Go | Go | None | 〇 | 〇 |
+| | Practice-Rust | Rust | None | 〇 | 〇 |
+| | Practice-Kotlin | Kotlin | None | 〇 | 〇 |
 
 </br>
 
