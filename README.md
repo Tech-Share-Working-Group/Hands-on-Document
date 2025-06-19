@@ -10,7 +10,30 @@
 
 </br>
 
-## 3-1. 言語系(基礎)
+# 3. 技術ネタ(レポジトリに移動可能)
+
+</br>
+
+| ステータス | 状況 |
+| ---- | ---- |
+| 空欄 | 未着手 |
+| △ | 着手中 |
+| 〇 | 作成完了 |
+
+</br>
+
+## 3-1. 初期ツール
+
+</br>
+
+| ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| △ | [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) | Docker | 〇 | 〇 | 0 |
+| △ | [Practice-VSCode](https://github.com/Tech-Share-Working-Group/Practice-VSCode) | VSCode | 〇 | 〇 | 0 |
+
+</br>
+
+## 3-2. 言語系(基礎)
 
 </br>
 
@@ -34,7 +57,7 @@
 
 </br>
 
-## 3-2. 言語系(ライブラリ寄り)
+## 3-3. 言語系(ライブラリ寄り)
 
 </br>
 
@@ -53,7 +76,7 @@
 
 </br>
 
-## 3-3. 言語系(フレームワーク寄り)
+## 3-4. 言語系(フレームワーク寄り)
 
 </br>
 
@@ -92,7 +115,7 @@
 
 </br>
 
-## 3-4. 言語周りのツール
+## 3-5. 言語周りのツール
 
 </br>
 
@@ -105,13 +128,12 @@
 
 </br>
 
-## 3-5. 開発サポート系のツール、技術
+## 3-6. 開発サポート系のツール、技術
 
 </br>
 
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Docker | Docker | 〇 | 〇 | 0 |
 | | Practice-Oracle_Master_Bronze | Oracle | 〇 | 〇 | 0 |
 | | Practice-Oracle_Master_Silver | Oracle | 〇 | 〇 | 0 |
 | | Practice-Oracle_Master_Gold | Oracle | 〇 | 〇 | 0 |
