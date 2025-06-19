@@ -105,7 +105,7 @@
 
 </br>
 
-## 3-5. 開発サポート系のツール
+## 3-5. 開発サポート系のツール、技術
 
 </br>
 
@@ -125,7 +125,7 @@
 | | Practice-Jenkins | Jenkins | 〇 | 〇 | 0 |
 | | Practice-Kubernetes | Kubernetes | 〇 | 〇 | 0 |
 | | Practice-Terraform | Terraform | 〇 | 〇 | 0 |
-
+| | Practice-API | REST, gRPC, GraphQL | 〇 | 〇 | 0 |
 
 </br>
 
