@@ -23,8 +23,13 @@
 
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| ○ | [Practice-WSL](https://github.com/Tech-Share-Working-Group/Practice-WSL) | WSL | 〇 | 〇 | 0 |
 | △ | [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) | Docker | 〇 | 〇 | 0 |
-| △ | [Practice-VSCode](https://github.com/Tech-Share-Working-Group/Practice-VSCode) | VSCode | 〇 | 〇 | 0 |
+| ○ | [Practice-VSCode](https://github.com/Tech-Share-Working-Group/Practice-VSCode) | VSCode | 〇 | 〇 | 0 |
+|  | Practice-Vim | Vim | 〇 | 〇 | 0 |
+|  | Practice-Vi | vi | 〇 | 〇 | 0 |
+|  | Practice-Nano | Nano | 〇 | 〇 | 0 |
+
 
 </br>
 
@@ -159,7 +164,6 @@
 | | Practice-MySQL | MySQL | 〇 | 〇 | 0 |
 | | Practice-PostgreSQL | PostgreSQL | 〇 | 〇 | 0 |
 | | Practice-SQLite | SQLite | 〇 | 〇 | 0 |
-| | Practice-Git | Git | 〇 | 〇 | 0 |
 | | Practice-Linux-level1 | Linux | 〇 | 〇 | 0 |
 | | Practice-Linux-level2 | Linux | 〇 | 〇 | 0 |
 | | Practice-Linux-level3 | Linux | 〇 | 〇 | 0 |
