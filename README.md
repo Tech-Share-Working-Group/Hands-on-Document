@@ -1,16 +1,11 @@
-# 1. 作成予定の技術ネタ一覧
-基本はDocker内で成果物を作成予定です。
-
-</br>
-
-# 2. 作成者について
+# 1. 作成者について
 | id | 作成日 | 一言コメント |
 | ---- | ---- | ---- |
 | [b23a0253](https://github.com/TSWG-b23a0253) | 2025/06/18 ||
 
 </br>
 
-# 3. 技術ネタ(レポジトリに移動可能)
+# 2. 技術ネタ
 
 </br>
 
@@ -22,7 +17,7 @@
 
 </br>
 
-## 3-1. 初期ツール
+## 2-1. 初期ツール
 
 </br>
 
@@ -33,7 +28,7 @@
 
 </br>
 
-## 3-2. 言語系(基礎)
+## 2-2. 言語系(基礎)
 
 </br>
 
@@ -57,26 +52,7 @@
 
 </br>
 
-## 3-3. 言語系(ライブラリ寄り)
-
-</br>
-
-| ステータス | Repository Name | ライブライ名 | 分野 |  バージョン | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
-| ---- | ---- | ----  | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Python-std_libraries | Mumpy, Pandas, Matplotlib, Seaborn, scipy, csv, etc... | データ処理ライブラリ | None | 〇 | 〇 | 0 |
-| | Practice-Python-OpenCV | OpenCV | 画像 | 4.11系 | 〇 | 〇 | 0 |
-| | Practice-Python-ScikitLearn | scikit-learn | 機械学習ツール | 1.4系 | 〇 | 〇 | 0 |
-| | Practice-Python-Tensorflow | tensorflow | 機械学習ツール | 2.1系 | 〇 | 〇 | 0 |
-| | Practice-Python-PyTorch | PyTorch | 機械学習ツール | 2.2系 | 〇 | 〇 | 0 |
-| | Practice-Python-Image-Processing-lib | MediaPipe, yolo v11, etc... | 画像 | None | 〇 | 〇 | 0 |
-| | Practice-Python-Image-Processing-Arch | CNN, ViT etc... | 画像 | None | 〇 | 〇 | 0 |
-| | Practice-Python-GAN | StyleGan, etc... | 画像 | None | 〇 | 〇 | 0 |
-| | Practice-Python-NLP | spaCy, Transformers, gensim, etc... | 自然言語 | None | 〇 | 〇 | 0 |
-| | Practice-Python-PyG | Pytorch-Geometric | ネットワーク | None | 〇 | 〇 | 0 |
-
-</br>
-
-## 3-4. 言語系(フレームワーク寄り)
+## 2-3. 言語系(フレームワーク寄り)
 
 </br>
 
@@ -115,7 +91,30 @@
 
 </br>
 
-## 3-5. 言語周りのツール
+## 2-4. 言語系(ライブラリ寄り)
+
+</br>
+
+| ステータス | Repository Name | ライブライ名 | 分野 |  バージョン | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ---- | ---- | ----  | ---- | ---- | ---- | ---- | ---- |
+| | Practice-Python-std_libraries | Mumpy, Pandas, Matplotlib, Seaborn, scipy, csv, etc... | データ処理ライブラリ | None | 〇 | 〇 | 0 |
+| | Practice-Python-OpenCV | OpenCV | 画像 | 4.11系 | 〇 | 〇 | 0 |
+| | Practice-Python-ScikitLearn | scikit-learn | 機械学習ツール | 1.4系 | 〇 | 〇 | 0 |
+| | Practice-Python-Tensorflow | tensorflow | 機械学習ツール | 2.1系 | 〇 | 〇 | 0 |
+| | Practice-Python-PyTorch | PyTorch | 機械学習ツール | 2.2系 | 〇 | 〇 | 0 |
+| | Practice-Python-Image-Processing-lib | MediaPipe, yolo v11, etc... | 画像 | None | 〇 | 〇 | 0 |
+| | Practice-Python-Image-Processing-Arch | CNN, ViT etc... | 画像 | None | 〇 | 〇 | 0 |
+| | Practice-Python-GAN | StyleGan, etc... | 画像 | None | 〇 | 〇 | 0 |
+| | Practice-Python-NLP | spaCy, Transformers, gensim, etc... | 自然言語 | None | 〇 | 〇 | 0 |
+| | Practice-Python-PyG | Pytorch-Geometric | ネットワーク | None | 〇 | 〇 | 0 |
+
+</br>
+
+
+
+</br>
+
+## 2-5. 言語周りのツール
 
 </br>
 
@@ -128,7 +127,7 @@
 
 </br>
 
-## 3-6. 開発サポート系のツール、技術
+## 2-6. 開発サポート系のツール、技術
 
 </br>
 
