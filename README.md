@@ -29,7 +29,7 @@
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 〇 | [Practice-WSL](https://github.com/Tech-Share-Working-Group/Practice-WSL) | WSL | 〇 | 〇 | 0 |
-| △ | [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) | Docker | 〇 | 〇 | 0 |
+| 〇 | [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) | Docker | 〇 | 〇 | 0 |
 | 〇 | [Practice-VSCode](https://github.com/Tech-Share-Working-Group/Practice-VSCode) | VSCode | 〇 | 〇 | 0 |
 | 〇 | [Practice-Git](https://github.com/Tech-Share-Working-Group/Practice-Git) | Git | 〇 | 〇 | 0 |
 |  | Practice-Vim | Vim | 〇 | 〇 | 0 |
