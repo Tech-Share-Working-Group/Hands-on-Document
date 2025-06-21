@@ -3,9 +3,14 @@
 | ---- | ---- | ---- |
 | [b23a0253](https://github.com/TSWG-b23a0253) | 2025/06/18 ||
 
-</br>
+</br></br>
 
-# 2. 技術ネタ
+# 2. こちらのリポジトリについて
+こちらは作成した(作成予定の)技術資料一覧のリポジトリです。
+
+</br></br>
+
+# 3. 技術ネタ
 
 </br>
 
@@ -17,16 +22,16 @@
 
 </br>
 
-## 2-1. 初期ツール
+## 3-1. 初期ツール
 
 </br>
 
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| ○ | [Practice-WSL](https://github.com/Tech-Share-Working-Group/Practice-WSL) | WSL | 〇 | 〇 | 0 |
+| 〇 | [Practice-WSL](https://github.com/Tech-Share-Working-Group/Practice-WSL) | WSL | 〇 | 〇 | 0 |
 | △ | [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) | Docker | 〇 | 〇 | 0 |
-| ○ | [Practice-VSCode](https://github.com/Tech-Share-Working-Group/Practice-VSCode) | VSCode | 〇 | 〇 | 0 |
-| ○ | [Practice-Git](https://github.com/Tech-Share-Working-Group/Practice-Git) | Git | 〇 | 〇 | 0 |
+| 〇 | [Practice-VSCode](https://github.com/Tech-Share-Working-Group/Practice-VSCode) | VSCode | 〇 | 〇 | 0 |
+| 〇 | [Practice-Git](https://github.com/Tech-Share-Working-Group/Practice-Git) | Git | 〇 | 〇 | 0 |
 |  | Practice-Vim | Vim | 〇 | 〇 | 0 |
 |  | Practice-Vi | vi | 〇 | 〇 | 0 |
 |  | Practice-Nano | Nano | 〇 | 〇 | 0 |
@@ -34,9 +39,9 @@
 
 </br>
 
-## 2-2. 言語系(基礎)
+## 3-2. 言語系(基礎)
 
-### 2-2-1. 使用頻度が多い言語
+### 3-2-1. 使用頻度が多い言語
 
 | ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -51,7 +56,7 @@
 
 </br>
 
-### 2-2-2. 使用頻度が少ない言語
+### 3-2-2. 使用頻度が少ない言語
 
 | ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -65,9 +70,9 @@
 
 </br>
 
-## 2-3. 言語系(フレームワーク寄り)
+## 3-3. 言語系(フレームワーク寄り)
 
-### 2-3-1. 業務寄りのフレームワーク
+### 3-3-1. 業務寄りのフレームワーク
 
 </br>
 
@@ -80,7 +85,7 @@
 
 </br>
 
-### 2-3-2. モダンなフレームワーク
+### 3-3-2. モダンなフレームワーク
 
 | ステータス | Repository Name | メイン言語 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -107,11 +112,11 @@
 
 </br>
 
-## 2-4. 言語系(ライブラリ寄り)
+## 3-4. 言語系(ライブラリ寄り)
 
 </br>
 
-### 2-4-1. AI, 機械学習関連
+### 3-4-1. AI, 機械学習関連
 
 | ステータス | Repository Name | ライブライ名 | 分野 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -128,7 +133,7 @@
 
 </br>
 
-### 2-4-2. その他
+### 3-4-2. その他
 
 | ステータス | Repository Name | 言語 | ライブライ名 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -136,24 +141,20 @@
 
 </br>
 
-
-
-</br>
-
-## 2-5. 言語周りのツール
+## 3-5. 言語周りのツール
 
 </br>
 
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-Maven-Gradle-Ant | Maven, Gradle, Ant | 〇 | 〇 | 0 |
-| | Practice-JUnit | Maven, Gradle, Ant | 〇 | 〇 | 0 |
-| | Practice-Node | Node | 〇 | 〇 | 0 |
-| | Practice-Poetry-Pyenv-Virtualenv | Poetry, Pyenv-virtualenv | 〇 | 〇 | 0 |
+| | Practice-JUnit | JUnit | 〇 | 〇 | 0 |
+| | Practice-nvm-Node | nvm, Node | 〇 | 〇 | 0 |
+| 〇 | [Practice-Poetry-Pyenv-Virtualenv](https://github.com/Tech-Share-Working-Group/Practice-Poetry-Pyenv-Virtualenv/tree/main) | Poetry, Pyenv-virtualenv | 〇 | 〇 | 0 |
 
 </br>
 
-## 2-6. 開発サポート系のツール、技術
+## 3-6. 開発サポート系のツール、技術
 
 </br>
 
