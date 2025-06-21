@@ -45,10 +45,8 @@
 
 | ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Java-Bronze | Java | None | 〇 | 〇 | 0 |
-| | Practice-Java-Silver | Java | SE17~ | 〇 | 〇 | 0 |
-| | Practice-Java-Gold | Java | SE17~ | 〇 | 〇 | 0 |
-| | Practice-SQL-Silver | SQL | None | 〇 | 〇 | 0 |
+| | Practice-Java-Bronze | Java | SE17~ | 〇 | 〇 | 0 |
+| | Practice-SQL | SQL | None | 〇 | 〇 | 0 |
 | | Practice-JavaScript | JavaScript | ES6~ | 〇 | 〇 | 0 |
 | | Practice-VBA | VBA | None | 〇 | 〇 | 0 |
 | | Practice-Shell | bat,  ksh, etc... | None | 〇 | 〇 | 0 |
@@ -166,9 +164,7 @@
 | | Practice-MySQL | MySQL | 〇 | 〇 | 0 |
 | | Practice-PostgreSQL | PostgreSQL | 〇 | 〇 | 0 |
 | | Practice-SQLite | SQLite | 〇 | 〇 | 0 |
-| | Practice-Linux-level1 | Linux | 〇 | 〇 | 0 |
-| | Practice-Linux-level2 | Linux | 〇 | 〇 | 0 |
-| | Practice-Linux-level3 | Linux | 〇 | 〇 | 0 |
+| | Practice-Linux | Linux | 〇 | 〇 | 0 |
 | | Practice-Jenkins | Jenkins | 〇 | 〇 | 0 |
 | | Practice-Kubernetes | Kubernetes | 〇 | 〇 | 0 |
 | | Practice-Terraform | Terraform | 〇 | 〇 | 0 |
