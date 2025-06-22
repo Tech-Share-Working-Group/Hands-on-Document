@@ -25,7 +25,7 @@
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 〇 | [Practice-WSL](https://github.com/Tech-Share-Working-Group/Practice-WSL) | WSL | 〇 | 〇 | 0 |
-| 〇 | [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) | Docker, Kubernetes | 〇 | 〇 | 0 |
+| △ | [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) | Docker, Kubernetes | 〇 | 〇 | 0 |
 | △ | [Practice-Editor](https://github.com/Tech-Share-Working-Group/Practice-Editor) | VSCode, Vim, vi, nano | 〇 | 〇 | 0 |
 | 〇 | [Practice-Git](https://github.com/Tech-Share-Working-Group/Practice-Git) | Git | 〇 | 〇 | 0 |
 |  | Practice-SVN | SVN | 〇 | 〇 | 0 |
@@ -51,7 +51,7 @@
 | ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-TypeScript | TypeScript | 5.8系~ | 〇 | 〇 | 0 |
-| | Practice-Python | Python, Pyenv, virtualenv, Poetry | 3.12~ | 〇 | 〇 | 0 |
+| △ | [Practice-Python]([や](https://github.com/Tech-Share-Working-Group/Practice-Python)) | Python, Pyenv, virtualenv, Poetry | 3.12~ | 〇 | 〇 | 0 |
 | | Practice-C-lang | C言語 | C11~ | 〇 | 〇 | 0 |
 | | Practice-Cpp | C++ | C++17~ | 〇 | 〇 | 0 |
 | | Practice-Go | Go | None | 〇 | 〇 | 0 |
