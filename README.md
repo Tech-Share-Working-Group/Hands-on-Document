@@ -12,8 +12,6 @@
 
 # 3. 技術ネタ
 
-</br>
-
 | ステータス | 状況 |
 | ---- | ---- |
 | 空欄 | 未着手 |
@@ -24,17 +22,14 @@
 
 ## 3-1. 初期ツール
 
-</br>
-
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 〇 | [Practice-WSL](https://github.com/Tech-Share-Working-Group/Practice-WSL) | WSL | 〇 | 〇 | 0 |
-| 〇 | [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) | Docker | 〇 | 〇 | 0 |
-| 〇 | [Practice-VSCode](https://github.com/Tech-Share-Working-Group/Practice-VSCode) | VSCode | 〇 | 〇 | 0 |
+| 〇 | [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) | Docker, Kubernetes | 〇 | 〇 | 0 |
+| △ | [Practice-Editor](https://github.com/Tech-Share-Working-Group/Practice-Editor) | VSCode, Vim, vi, nano | 〇 | 〇 | 0 |
 | 〇 | [Practice-Git](https://github.com/Tech-Share-Working-Group/Practice-Git) | Git | 〇 | 〇 | 0 |
 |  | Practice-SVN | SVN | 〇 | 〇 | 0 |
-|  | Practice-Editor | Vim, vi, nano | 〇 | 〇 | 0 |
-
+|  | Practice-Linux | Linux | 〇 | 〇 | 0 |
 
 </br>
 
@@ -44,21 +39,19 @@
 
 | ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Java | Java | SE17~ | 〇 | 〇 | 0 |
+| | Practice-Java | Java, Junit, Maven, gradle | SE17~ | 〇 | 〇 | 0 |
 | | Practice-SQL | SQL | None | 〇 | 〇 | 0 |
-| | Practice-JavaScript | JavaScript | ES6~ | 〇 | 〇 | 0 |
+| | Practice-JavaScript | JavaScript, nvm, node | ES6~ | 〇 | 〇 | 0 |
 | | Practice-VBA | VBA | None | 〇 | 〇 | 0 |
 | | Practice-Shell | bat,  ksh, etc... | None | 〇 | 〇 | 0 |
 | | Practice-Cobol | Cobol | 3.2 | 〇 | 〇 | 0 |
-
-</br>
 
 ### 3-2-2. 使用頻度が少ない言語
 
 | ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-TypeScript | TypeScript | 5.8系~ | 〇 | 〇 | 0 |
-| | Practice-Python | Python | 3.12~ | 〇 | 〇 | 0 |
+| | Practice-Python | Python, Pyenv, virtualenv, Poetry | 3.12~ | 〇 | 〇 | 0 |
 | | Practice-C-lang | C言語 | C11~ | 〇 | 〇 | 0 |
 | | Practice-Cpp | C++ | C++17~ | 〇 | 〇 | 0 |
 | | Practice-Go | Go | None | 〇 | 〇 | 0 |
@@ -71,16 +64,12 @@
 
 ### 3-3-1. 業務寄りのフレームワーク
 
-</br>
-
 | ステータス | Repository Name | メイン言語 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-Java-Servlet | Java | Servlet | 任意DB | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Java-SpringFramework | Java | Spring Framework | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Java-Spring-Boot | Java | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-JavaScript-jQuery| JavaScript | jQuery | 〇 | 〇 | 〇 | None | 0 |
-
-</br>
 
 ### 3-3-2. モダンなフレームワーク
 
@@ -130,7 +119,7 @@
 
 </br>
 
-### 3-4-2. その他
+### 3-4-2. その他ライブラリ
 
 | ステータス | Repository Name | 言語 | ライブライ名 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -139,34 +128,32 @@
 
 </br>
 
-## 3-5. 言語周りのツール
-
-</br>
+## 3-5. データベース
 
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Maven-Gradle-Ant | Maven, Gradle, Ant | 〇 | 〇 | 0 |
-| | Practice-JUnit | JUnit | 〇 | 〇 | 0 |
-| | Practice-nvm-Node | nvm, Node | 〇 | 〇 | 0 |
-| 〇 | [Practice-Poetry-Pyenv-Virtualenv](https://github.com/Tech-Share-Working-Group/Practice-Poetry-Pyenv-Virtualenv/tree/main) | Poetry, Pyenv-virtualenv | 〇 | 〇 | 0 |
-
-</br>
-
-## 3-6. 開発サポート系のツール、技術
-
-</br>
-
-| ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Oracle_Master_Bronze | Oracle | 〇 | 〇 | 0 |
-| | Practice-Oracle_Master_Silver | Oracle | 〇 | 〇 | 0 |
-| | Practice-Oracle_Master_Gold | Oracle | 〇 | 〇 | 0 |
+| | Practice-Oracle | Oracle | 〇 | 〇 | 0 |
 | | Practice-MySQL | MySQL | 〇 | 〇 | 0 |
 | | Practice-PostgreSQL | PostgreSQL | 〇 | 〇 | 0 |
 | | Practice-SQLite | SQLite | 〇 | 〇 | 0 |
-| | Practice-Linux | Linux | 〇 | 〇 | 0 |
+
+</br>
+
+## 3-6. クラウド
+
+| ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-AWS | AWS | 〇 | 〇 | 0 |
+| | Practice-Azure | Azure | 〇 | 〇 | 0 |
+| | Practice-GCP | GCP | 〇 | 〇 | 0 |
+
+</br>
+
+## 3-7. その他
+
+| ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-Jenkins | Jenkins | 〇 | 〇 | 0 |
-| | Practice-Kubernetes | Kubernetes | 〇 | 〇 | 0 |
 | | Practice-Terraform | Terraform | 〇 | 〇 | 0 |
 | | Practice-API | REST, gRPC, GraphQL | 〇 | 〇 | 0 |
 
