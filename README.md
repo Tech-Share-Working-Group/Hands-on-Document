@@ -136,6 +136,7 @@
 | | Practice-MySQL | MySQL | 〇 | 〇 | 0 |
 | | Practice-PostgreSQL | PostgreSQL | 〇 | 〇 | 0 |
 | | Practice-SQLite | SQLite | 〇 | 〇 | 0 |
+| | Practice-SQL-Server | SQL Server | 〇 | 〇 | 0 |
 
 </br>
 
