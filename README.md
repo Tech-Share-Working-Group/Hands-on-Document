@@ -32,9 +32,8 @@
 | 〇 | [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) | Docker | 〇 | 〇 | 0 |
 | 〇 | [Practice-VSCode](https://github.com/Tech-Share-Working-Group/Practice-VSCode) | VSCode | 〇 | 〇 | 0 |
 | 〇 | [Practice-Git](https://github.com/Tech-Share-Working-Group/Practice-Git) | Git | 〇 | 〇 | 0 |
-|  | Practice-Vim | Vim | 〇 | 〇 | 0 |
-|  | Practice-Vi | vi | 〇 | 〇 | 0 |
-|  | Practice-Nano | Nano | 〇 | 〇 | 0 |
+|  | Practice-SVN | SVN | 〇 | 〇 | 0 |
+|  | Practice-Editor | Vim, vi, nano | 〇 | 〇 | 0 |
 
 
 </br>
@@ -45,7 +44,7 @@
 
 | ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Java-Bronze | Java | SE17~ | 〇 | 〇 | 0 |
+| | Practice-Java | Java | SE17~ | 〇 | 〇 | 0 |
 | | Practice-SQL | SQL | None | 〇 | 〇 | 0 |
 | | Practice-JavaScript | JavaScript | ES6~ | 〇 | 〇 | 0 |
 | | Practice-VBA | VBA | None | 〇 | 〇 | 0 |
@@ -78,7 +77,7 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-Java-Servlet | Java | Servlet | 任意DB | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Java-SpringFramework | Java | Spring Framework | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Java-SpringBoot | Java | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Java-Spring-Boot | Java | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-JavaScript-jQuery| JavaScript | jQuery | 〇 | 〇 | 〇 | None | 0 |
 
 </br>
@@ -127,7 +126,7 @@
 | | Practice-Python-Image-Processing-Arch | CNN, ViT etc... | 画像 | 〇 | 〇 | 0 |
 | | Practice-Python-GAN | StyleGan, etc... | 画像 | 〇 | 〇 | 0 |
 | | Practice-Python-NLP | spaCy, Transformers, gensim, etc... | 自然言語 | 〇 | 〇 | 0 |
-| | Practice-Python-PyG | Pytorch-Geometric | ネットワーク | 〇 | 〇 | 0 
+| | Practice-Python-PyG | Pytorch-Geometric | ネットワーク | 〇 | 〇 | 0 |
 
 </br>
 
@@ -135,6 +134,7 @@
 
 | ステータス | Repository Name | 言語 | ライブライ名 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-Python-TKinter | Pytorch-Tkinter | GUIアプリ | 〇 | 〇 | 0 |
 | | Practice-JavaScript-Three | JavaScript | Three | 〇 | 〇 | 0 |
 
 </br>
