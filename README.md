@@ -107,12 +107,11 @@
 
 | ステータス | Repository Name | ライブライ名 | 分野 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Std_libraries | numpy, pandas, Matplotlib, Seaborn, scipy, csv, json, pickle, polars, etc... | データ処理ライブラリ | 〇 | 〇 | 0 |
-| | OpenCV | OpenCV | 画像 | 〇 | 〇 | 0 |
+| | Std_libraries | numpy, pandas, Matplotlib, Seaborn, scipy, OpenCV, csv, json, pickle, polars, etc... | データ処理ライブラリ | 〇 | 〇 | 0 |
 | | ScikitLearn | scikit-learn | 機械学習ツール | 〇 | 〇 | 0 |
-| | Tensorflow | tensorflow | 機械学習ツール | 〇 | 〇 | 0 |
-| | PyTorch | PyTorch | 機械学習ツール | 〇 | 〇 | 0 |
-| | Image-Processing | MediaPipe, yolo v11, CNN, ViT, etc... | 画像 | 〇 | 〇 | 0 |
+| | Tensorflow | tensorflow | 深層学習ツール | 〇 | 〇 | 0 |
+| | PyTorch | PyTorch | 深層学習ツール | 〇 | 〇 | 0 |
+| | Image-Processing | MediaPipe, YOLO, CNN, ViT, etc... | 画像 | 〇 | 〇 | 0 |
 | | Generative-Adversarial-Network | StyleGan, etc... | 画像 | 〇 | 〇 | 0 |
 | | Generative-AI | 「by Hugging Face」のライブラリ, LangChain, etc... | None | 〇 | 〇 | 0 |
 | | Natural-Language-Processing | spaCy, Transformers, gensim, etc... | 自然言語 | 〇 | 〇 | 0 |
