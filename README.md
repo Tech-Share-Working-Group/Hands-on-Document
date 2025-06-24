@@ -103,21 +103,21 @@
 
 </br>
 
-### 3-4-1. AI, 機械学習関連
+### 3-4-1. 標準ライブラリ、AI, 機械学習関連
 
 | ステータス | Repository Name | ライブライ名 | 分野 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Python-std_libraries | numpy, pandas, Matplotlib, Seaborn, scipy, csv, json, pickle, polars,
+| | Std_libraries | numpy, pandas, Matplotlib, Seaborn, scipy, csv, json, pickle, polars,
  etc... | データ処理ライブラリ | 〇 | 〇 | 0 |
-| | Practice-Python-OpenCV | OpenCV | 画像 | 〇 | 〇 | 0 |
-| | Practice-Python-ScikitLearn | scikit-learn | 機械学習ツール | 〇 | 〇 | 0 |
-| | Practice-Python-Tensorflow | tensorflow | 機械学習ツール | 〇 | 〇 | 0 |
-| | Practice-Python-PyTorch | PyTorch | 機械学習ツール | 〇 | 〇 | 0 |
-| | Practice-Python-Image-Processing-lib | MediaPipe, yolo v11, etc... | 画像 | 〇 | 〇 | 0 |
-| | Practice-Python-Image-Processing-Arch | CNN, ViT etc... | 画像 | 〇 | 〇 | 0 |
-| | Practice-Python-GAN | StyleGan, etc... | 画像 | 〇 | 〇 | 0 |
-| | Practice-Python-NLP | spaCy, Transformers, gensim, etc... | 自然言語 | 〇 | 〇 | 0 |
-| | Practice-Python-PyG | Pytorch-Geometric | ネットワーク | 〇 | 〇 | 0 |
+| | OpenCV | OpenCV | 画像 | 〇 | 〇 | 0 |
+| | ScikitLearn | scikit-learn | 機械学習ツール | 〇 | 〇 | 0 |
+| | Tensorflow | tensorflow | 機械学習ツール | 〇 | 〇 | 0 |
+| | PyTorch | PyTorch | 機械学習ツール | 〇 | 〇 | 0 |
+| | Image-Processing | MediaPipe, yolo v11, CNN, ViT, etc... | 画像 | 〇 | 〇 | 0 |
+| | Generative-Adversarial-Network | StyleGan, etc... | 画像 | 〇 | 〇 | 0 |
+| | Generative-AI | 「by Hugging Face」のライブラリ, LangChain, etc... | None | 〇 | 〇 | 0 |
+| | Natural-Language-Processing | spaCy, Transformers, gensim, etc... | 自然言語 | 〇 | 〇 | 0 |
+| | Graph-Neural-Networks | Pytorch-Geometric | ネットワーク | 〇 | 〇 | 0 |
 
 </br>
 
