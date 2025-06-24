@@ -107,7 +107,8 @@
 
 | ステータス | Repository Name | ライブライ名 | 分野 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Python-std_libraries | numpy, pandas, Matplotlib, Seaborn, scipy, csv, json, etc... | データ処理ライブラリ | 〇 | 〇 | 0 |
+| | Practice-Python-std_libraries | numpy, pandas, Matplotlib, Seaborn, scipy, csv, json, pickle, polars,
+ etc... | データ処理ライブラリ | 〇 | 〇 | 0 |
 | | Practice-Python-OpenCV | OpenCV | 画像 | 〇 | 〇 | 0 |
 | | Practice-Python-ScikitLearn | scikit-learn | 機械学習ツール | 〇 | 〇 | 0 |
 | | Practice-Python-Tensorflow | tensorflow | 機械学習ツール | 〇 | 〇 | 0 |
