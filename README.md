@@ -47,6 +47,8 @@
 | | Practice-Shell | bat,  ksh, etc... | None | 〇 | 〇 | 0 |
 | | Practice-Cobol | Cobol | 3.2 | 〇 | 〇 | 0 |
 
+</br>
+
 ### 3-2-2. 使用頻度が少ない言語
 
 | ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 | 体験会の応募件数 |
@@ -58,55 +60,113 @@
 | | Practice-Go | Go | None | 〇 | 〇 | 0 |
 | | Practice-Rust | Rust | None | 〇 | 〇 | 0 |
 | | Practice-Kotlin | Kotlin | None | 〇 | 〇 | 0 |
+| | Practice-Swift | Swift | None | 〇 | 〇 | 0 |
 
 </br>
 
-## 3-3. 言語系(フレームワーク寄り)
+## 3-3. 言語系(ライブラリ、フレームワーク)
 
-### 3-3-1. 業務寄りのフレームワーク
+### 3-3-1. Javaのフレームワーク
 
-| ステータス | Repository Name | メイン言語 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Java-Servlet | Java | Servlet | 任意DB | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Java-SpringFramework | Java | Spring Framework | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Java-Spring-Boot | Java | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-JavaScript-jQuery| JavaScript | jQuery | 〇 | 〇 | 〇 | None | 0 |
-
-### 3-3-2. モダンなフレームワーク
-
-| ステータス | Repository Name | メイン言語 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-JavaScript-Express | JavaScript | Express | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-JavaScript-React | JavaScript | React | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-JavaScript-Next | JavaScript | Next | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-JavaScript-Vue | JavaScript | Vue | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-JavaScript-Nuxt | JavaScript | Vue | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-JavaScript-Svelt | JavaScript | Svelt | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-JavaScript-Htmx | JavaScript | Htmx | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-TypeScript-Express | TypeScript | Express | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-TypeScript-React | TypeScript | React | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-TypeScript-Next | TypeScript | Next | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-TypeScript-Vue | TypeScript | Vue | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-TypeScript-Nuxt | TypeScript | Nuxt | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-TypeScript-Svelt | TypeScript | Svelt | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-TypeScript-Angular | TypeScript | Angular | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Python-Flask | Python | Flask | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Python-Django | Python | Django | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Python-FastAPI | Python | FastAPI | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Python-Bottle | Python | Bottle | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Go-Gin | Go | Gin | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Kotlin-SpringBoot | Kotlin | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Swift-Vapor | Swift | Vapor | 〇 | 〇 | 〇 | 〇 | 0 |
+| ステータス | Repository Name | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-Java-Servlet | Servlet | 〇 | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Java-SpringFramework | Spring Framework | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Java-Spring-Boot | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
-## 3-4. 言語系(ライブラリ寄り)
+### 3-3-2. JavaScriptのフレームワーク
+
+| ステータス | Repository Name | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-JavaScript-jQuery | jQuery | 〇 | 〇 | 〇 | None | 0 |
+| | Practice-JavaScript-Express | Express | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-JavaScript-React | React | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-JavaScript-Next | Next | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-JavaScript-Vue | Vue | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-JavaScript-Nuxt | Nuxt | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-JavaScript-Svelt | Svelt | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-JavaScript-Htmx | Htmx | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
-### 3-4-1. 標準ライブラリ、AI, 機械学習関連
+### 3-3-3. TypeScriptのフレームワーク
 
-| ステータス | Repository Name | ライブライ名 | 分野 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ステータス | Repository Name | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-TypeScript-Express | Express | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-TypeScript-React | React | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-TypeScript-Next | Next | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-TypeScript-Vue | Vue | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-TypeScript-Nuxt | Nuxt | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-TypeScript-Svelt | Svelt | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-TypeScript-Angular | Angular | 〇 | 〇 | 〇 | 〇 | 0 |
+
+</br>
+
+### 3-3-4. Pythonのフレームワーク
+
+| ステータス | Repository Name | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-Python-Flask | Flask | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Python-Django | Django | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Python-FastAPI | FastAPI | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Python-Bottle | Bottle | 〇 | 〇 | 〇 | 〇 | 0 |
+
+</br>
+
+### 3-3-5. Goのフレームワーク
+
+| ステータス | Repository Name | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-Go-Gin | Gin | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Go-Echo | Echo | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Go-Fiber | Fiber | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Go-Beego | Beego | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Go-Revel | Revel | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Go-Chi | Chi | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Go-Buffalo | Buffalo | 〇 | 〇 | 〇 | 〇 | 0 |
+
+</br>
+
+### 3-3-6. Rustのフレームワーク
+
+| ステータス | Repository Name | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-Rust-Actix-Web | Actix Web | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Rust-Axum | Axum | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Rust-Rocket | Rocket | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Rust-Warp | Warp | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Rust-Salvo | Salvo | 〇 | 〇 | 〇 | 〇 | 0 |
+
+</br>
+
+### 3-3-7. Kotlin, Swift, Dartのフレームワーク
+
+| ステータス | Repository Name | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-Kotlin-Ktor | Ktor | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Kotlin-SpringBoot | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Kotlin-Javalin | Javalin | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Kotlin-http4k | http4k | 〇 | 〇 | 〇 | 〇 | 0 
+| | Practice-Kotlin-Vert_x | Vert.x | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Swift-Vapor | Vapor | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Swift-Hummingbird | Hummingbird | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Dart-Shelf | Shelf | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Dart-Jaguar | Jaguar | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Dart-Angel | Angel | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Dart-Dart-Frog | Dart Frog | 〇 | 〇 | 〇 | 〇 | 0 |
+
+</br>
+
+### 3-3-8. 標準ライブラリ、AI, 機械学習関連
+
+| Repository Name |
+| ---- |
+| Practice-Python-libraries |
+
+| ステータス | ディレクトリ名 | ライブライ名 | 分野 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Std_libraries | numpy, pandas, Matplotlib, Seaborn, scipy, OpenCV, csv, json, pickle, polars, etc... | データ処理ライブラリ | 〇 | 〇 | 0 |
 | | ScikitLearn | scikit-learn | 機械学習ツール | 〇 | 〇 | 0 |
@@ -117,15 +177,7 @@
 | | Generative-AI | 「by Hugging Face」のライブラリ, LangChain, etc... | None | 〇 | 〇 | 0 |
 | | Natural-Language-Processing | spaCy, Transformers, gensim, etc... | 自然言語 | 〇 | 〇 | 0 |
 | | Graph-Neural-Networks | Pytorch-Geometric | ネットワーク | 〇 | 〇 | 0 |
-
-</br>
-
-### 3-4-2. その他ライブラリ
-
-| ステータス | Repository Name | 言語 | ライブライ名 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-Python-TKinter | Pytorch-Tkinter | GUIアプリ | 〇 | 〇 | 0 |
-| | Practice-JavaScript-Three | JavaScript | Three | 〇 | 〇 | 0 |
 
 </br>
 
