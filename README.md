@@ -15,9 +15,9 @@
 | ステータス | 状況 |
 | ---- | ---- |
 | 空欄 | 未着手 |
-| △ | 着手中 |
+| △ | 作成中 |
 | 〇 | 作成完了、自端末での動作確認済み |
-| ◎ | 他端末でも動作確認確認済み |
+| ◎ | 他端末でも動作確認済み |
 
 </br>
 
@@ -96,6 +96,7 @@
 | | Practice-Python-Bottle | Python | Bottle | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Go-Gin | Go | Gin | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Kotlin-SpringBoot | Kotlin | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Swift-Vapor | Swift | Vapor | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
