@@ -29,7 +29,6 @@
 | △ | [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) | Docker, Kubernetes | 〇 | 〇 | 0 |
 | △ | [Practice-Editor](https://github.com/Tech-Share-Working-Group/Practice-Editor) | VSCode, Vim, vi, nano | 〇 | 〇 | 0 |
 | 〇 | [Practice-Git](https://github.com/Tech-Share-Working-Group/Practice-Git) | Git | 〇 | 〇 | 0 |
-|  | Practice-SVN | SVN | 〇 | 〇 | 0 |
 |  | Practice-Linux | Linux | 〇 | 〇 | 0 |
 
 </br>
@@ -309,6 +308,7 @@
 | | Practice-Jenkins | Jenkins | 〇 | 〇 | 0 |
 | | Practice-Terraform | Terraform | 〇 | 〇 | 0 |
 | | Practice-API | REST, gRPC, GraphQL | 〇 | 〇 | 0 |
+| | Practice-SVN | SVN | 〇 | 〇 | 0 |
 
 </br>
 
