@@ -231,7 +231,7 @@
 
 | Repository Name |
 | ---- |
-| Practice-Python-FrameWork |
+| [Practice-Python-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork) |
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -245,7 +245,7 @@
 
 </br>
 
-### 3-3-10. Pythonの標準ライブラリ、機械学習関連ライブラリ
+### 3-3-12. Pythonの標準ライブラリ、機械学習関連ライブラリ
 
 | Repository Name |
 | ---- |
@@ -258,8 +258,7 @@
 | | Practice-Tensorflow | tensorflow | 深層学習ツール | 〇 | 〇 | 0 |
 | | Practice-PyTorch | PyTorch | 深層学習ツール | 〇 | 〇 | 0 |
 | | Practice-Image-Processing | MediaPipe, YOLO, CNN, ViT, etc... | 画像 | 〇 | 〇 | 0 |
-| | Practice-Generative-Adversarial-Network | StyleGan, etc... | 画像 | 〇 | 〇 | 0 |
-| | Practice-Generative-AI | 「by Hugging Face」のライブラリ, LangChain, etc... | None | 〇 | 〇 | 0 |
+| | Practice-Generative-AI | GAN, 「by Hugging Face」のライブラリ, LangChain, etc... | 生成AI | 〇 | 〇 | 0 |
 | | Practice-Natural-Language-Processing | spaCy, Transformers, gensim, etc... | 自然言語 | 〇 | 〇 | 0 |
 | | Practice-Graph-Neural-Networks | Pytorch-Geometric | ネットワーク | 〇 | 〇 | 0 |
 | | Practice-Python-TKinter | Pytorch-Tkinter | GUIアプリ | 〇 | 〇 | 0 |
