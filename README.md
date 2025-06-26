@@ -30,6 +30,7 @@
 | △ | [Practice-Editor](https://github.com/Tech-Share-Working-Group/Practice-Editor) | VSCode, Vim, vi, nano | 〇 | 〇 | 0 |
 | 〇 | [Practice-Git](https://github.com/Tech-Share-Working-Group/Practice-Git) | Git | 〇 | 〇 | 0 |
 |  | Practice-Linux | Linux | 〇 | 〇 | 0 |
+|  | Practice-Security | None | ✕ | ✕ | 0 |
 
 </br>
 
