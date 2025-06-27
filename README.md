@@ -70,7 +70,7 @@
 
 | Repository Name |
 | ---- |
-| Practice-Java-FrameWork |
+| [Practice-Java-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork) |
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -251,7 +251,7 @@
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 〇 | [Practice-Flask](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/01_Practice_Flask) | Flask | 〇 | 〇 | 〇 | 〇 | 0 |
+| 〇 | [Practice-Flask](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/blob/main/Practice_Flask) | Flask | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Django | Django | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-FastAPI | FastAPI | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Bottle | Bottle | 〇 | 〇 | 〇 | 〇 | 0 |
