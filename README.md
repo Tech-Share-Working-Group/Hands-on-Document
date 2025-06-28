@@ -250,7 +250,7 @@
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 〇 | [Practice-Flask](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/blob/main/Practice_Flask) | Flask | 〇 | 〇 | 〇 | 〇 | 0 |
+| 〇 | [Practice-Flask](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/blob/main/Practice-Flask) | Flask | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Django | Django | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-FastAPI](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-FastAPI) | FastAPI | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Bottle](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Bottle) | Bottle | 〇 | 〇 | 〇 | 〇 | 0 |
