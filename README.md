@@ -16,8 +16,7 @@
 | ---- | ---- |
 | 空欄 | 未着手 |
 | △ | 作成中 |
-| 〇 | 作成完了、自端末での動作確認済み |
-| ◎ | 他端末でも動作確認済み |
+| 〇 | 作成完了 |
 
 </br>
 
@@ -74,7 +73,7 @@
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Servlet | Servlet | 〇 | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Servlet](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork/tree/main/Practice_Servlet) | Servlet | 〇 | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-SpringFramework | Spring Framework | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Spring-Boot | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Micronaut | Micronaut | 〇 | 〇 | 〇 | 〇 | 0 |
