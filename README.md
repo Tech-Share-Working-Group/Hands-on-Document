@@ -252,7 +252,7 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 〇 | [Practice-Flask](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/blob/main/Practice_Flask) | Flask | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Django | Django | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-FastAPI | FastAPI | 〇 | 〇 | 〇 | 〇 | 0 |
+| | [Practice-FastAPI](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-FastAPI) | FastAPI | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Bottle | Bottle | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Tornado | Tornado | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Sanic | Sanic | 〇 | 〇 | 〇 | 〇 | 0 |
