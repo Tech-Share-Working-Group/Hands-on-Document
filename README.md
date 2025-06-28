@@ -136,11 +136,11 @@
 
 | Repository Name |
 | ---- |
-| Practice-Go-FrameWork |
+| [Practice-Go-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main) |
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Gin | Gin | 〇 | 〇 | 〇 | 〇 | 0 |
+| | [Practice-Gin](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Gin) | Gin | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Echo | Echo | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Fiber | Fiber | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Beego | Beego | 〇 | 〇 | 〇 | 〇 | 0 |
