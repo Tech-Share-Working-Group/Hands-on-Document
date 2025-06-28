@@ -74,9 +74,15 @@
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Servlet](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork/tree/main/Practice_Servlet) | Servlet | 〇 | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-SpringFramework | Spring Framework | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Spring-Framework | Spring Framework | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Spring-Boot | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Micronaut | Micronaut | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Spring-WebFlux | Spring WebFlux | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Vert-x | Vert.x | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Play-Framework | Play Framework | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Ratpack | Ratpack | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Javalin | Javalin | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Struts2 | Struts2 | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
@@ -96,6 +102,9 @@
 | | Practice-Nuxt | Nuxt | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Svelt | Svelt | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Htmx | Htmx | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Koa | Koa | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Fastify | Fastify | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Hapi | Hapi | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
@@ -114,6 +123,10 @@
 | | Practice-Nuxt | Nuxt | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Svelt | Svelt | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Angular | Angular | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-NestJS | NestJS | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Koa | Koa | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Fastify | Fastify | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Remix | Remix | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
@@ -251,16 +264,51 @@
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 〇 | [Practice-Flask](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/blob/main/Practice-Flask) | Flask | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Django | Django | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Django](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Django) | Django | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-FastAPI](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-FastAPI) | FastAPI | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Bottle](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Bottle) | Bottle | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Tornado | Tornado | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Sanic | Sanic | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Starlette | Starlette | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Quart | Quart | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-aiohttp | aiohttp | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
-### 3-3-13. Pythonの標準ライブラリ、機械学習関連ライブラリ
+### 3-3-13. Rubyのフレームワーク
+
+| Repository Name |
+| ---- |
+| Practice-Ruby-FrameWork |
+
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-Ruby-on-Rails | Ruby on Rails | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Sinatra | Sinatra | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Hanami | Hanami | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Padrino | Padrino | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Grape | Grape | 〇 | 〇 | 〇 | 〇 | 0 |
+
+</br>
+
+### 3-3-14. PHPのフレームワーク
+
+| Repository Name |
+| ---- |
+| Practice-PHP-FrameWork |
+
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-Laravel | Laravel | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Symfony | Symfony | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-CodeIgniter | CodeIgniter | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-CakePHP | CakePHP | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Phalcon | Phalcon | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Laminas | Laminas(旧?:Zend Framework) | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Yii | Yii | 〇 | 〇 | 〇 | 〇 | 0 |
+
+</br>
+
+### 3-3-15. Pythonの標準ライブラリ、機械学習関連ライブラリ
 
 | Repository Name |
 | ---- |
