@@ -56,10 +56,14 @@
 | △ | [Practice-Python](https://github.com/Tech-Share-Working-Group/Practice-Python) | Python, Pyenv, virtualenv, Poetry | 3.12~ | 〇 | 〇 | 0 |
 | | Practice-C-lang | C言語 | C11~ | 〇 | 〇 | 0 |
 | | Practice-Cpp | C++ | C++17~ | 〇 | 〇 | 0 |
+| | Practice-C-SHARP | C# | None | 〇 | 〇 | 0 |
 | | Practice-Go | Go | None | 〇 | 〇 | 0 |
 | | Practice-Rust | Rust | None | 〇 | 〇 | 0 |
 | | Practice-Kotlin | Kotlin | None | 〇 | 〇 | 0 |
 | | Practice-Swift | Swift | None | 〇 | 〇 | 0 |
+| | Practice-Dart | Dart | None | 〇 | 〇 | 0 |
+| | Practice-PHP | PHP | None | 〇 | 〇 | 0 |
+| | Practice-Ruby | Ruby | None | 〇 | 〇 | 0 |
 
 </br>
 
