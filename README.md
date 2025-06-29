@@ -282,11 +282,11 @@
 
 | Repository Name |
 | ---- |
-| Practice-Ruby-FrameWork |
+| [Practice-Ruby-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Ruby-FrameWork/tree/main) |
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Ruby-on-Rails | Ruby on Rails | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Ruby-on-Rails](https://github.com/Tech-Share-Working-Group/Practice-Ruby-FrameWork/tree/main/Practice-Ruby-on-Rails) | Ruby on Rails | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Sinatra | Sinatra | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Hanami | Hanami | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Padrino | Padrino | 〇 | 〇 | 〇 | 〇 | 0 |
