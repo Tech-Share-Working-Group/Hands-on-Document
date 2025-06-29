@@ -249,7 +249,7 @@
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-ASP-dot-NET | ASP.NET core | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-ASP-dot-NET-core | ASP.NET core | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-ServiceStack | ServiceStack | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Orleans | Orleans | 〇 | 〇 | 〇 | 〇 | 0 |
 
