@@ -112,11 +112,11 @@
 
 | Repository Name |
 | ---- |
-| Practice-TypeScript-FrameWork |
+| [Practice-TypeScript-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-TypeScript-FrameWork/tree/main) |
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Express | Express | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Express](https://github.com/Tech-Share-Working-Group/Practice-TypeScript-FrameWork/tree/main/Practice-Express) | Express | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-React | React | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Next | Next | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Vue | Vue | 〇 | 〇 | 〇 | 〇 | 0 |
