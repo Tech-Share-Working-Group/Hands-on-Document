@@ -22,14 +22,67 @@
 
 ## 3-1. 基礎技術
 
+### 3-1-1. WSL
+
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 〇 | [Practice-WSL](https://github.com/Tech-Share-Working-Group/Practice-WSL) | WSL | 〇 | 〇 | 0 |
-| △ | [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) | Docker, Kubernetes | 〇 | 〇 | 0 |
-| △ | [Practice-Editor](https://github.com/Tech-Share-Working-Group/Practice-Editor) | VSCode, Vim, vi, nano | 〇 | 〇 | 0 |
-| 〇 | [Practice-Git](https://github.com/Tech-Share-Working-Group/Practice-Git) | Git | 〇 | 〇 | 0 |
-|  | Practice-Linux | Linux | 〇 | 〇 | 0 |
+
+### 3-1-2. セキュリティ
+
+| ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 |  | Practice-Security | None | ✕ | ✕ | 0 |
+
+### 3-1-3. Docker
+
+| Repository Name |
+| ---- |
+| [Practice-Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker) |
+
+| ステータス | ディレクトリ名 | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 〇 | [01_Install_Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker/tree/main/01_Install_Docker) | Docker | 〇 | 〇 | 0 |
+| 〇 | [02_Use_Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker/tree/main/02_Use_Docker) | Docker | 〇 | 〇 | 0 |
+| 〇 | [03_Use_Docker_Interactive_mode](https://github.com/Tech-Share-Working-Group/Practice-Docker/tree/main/03_Use_Docker_Interactive_mode) | Docker(対話モード) | 〇 | 〇 | 0 |
+|  | 04_Use_Docker_Compose | Docker Compose | 〇 | 〇 | 0 |
+|  | 05_Use_Kubernetes_minikube | minikube | 〇 | 〇 | 0 |
+|  | 05_Use_Kubernetes_Kind | Kind | 〇 | 〇 | 0 |
+|  | 06_Use_Kubernetes_k0s | k0s | 〇 | 〇 | 0 |
+
+### 3-1-4. Git, Github, Gitlab、On-premiss
+
+| Repository Name |
+| ---- |
+| [Practice-Git](https://github.com/Tech-Share-Working-Group/Practice-Git) |
+
+| ステータス | ディレクトリ名 | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 〇 | [01_Install_Git](https://github.com/Tech-Share-Working-Group/Practice-Git/tree/main/01_Install_Git) | Git | 〇 | 〇 | 0 |
+| 〇 | [02_Use_Git_to_Github](https://github.com/Tech-Share-Working-Group/Practice-Git/tree/main/02_Use_Git_to_Github) | Github | 〇 | 〇 | 0 |
+| 〇 | [03_Use_Git_to_GitLab](03_Use_Git_to_GitLab) | Gitlab | 〇 | 〇 | 0 |
+| 〇 | [04_Use_Git_to_On-premises](https://github.com/Tech-Share-Working-Group/Practice-Git/tree/main/04_Use_Git_to_On-premises) | Git on-premiss | 〇 | 〇 | 0 |
+
+### 3-1-5. エディタ、IDE
+
+| Repository Name |
+| ---- |
+| [Practice-Editor](https://github.com/Tech-Share-Working-Group/Practice-Editor) |
+
+| ステータス | ディレクトリ名 | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 〇 | [01_Install_VSCode](https://github.com/Tech-Share-Working-Group/Practice-Editor/tree/main/01_Install_VSCode) | VSCode | 〇 | 〇 | 0 |
+| 〇 | [02_Use_VSCode](https://github.com/Tech-Share-Working-Group/Practice-Editor/tree/main/02_Use_VSCode) | VSCode | 〇 | 〇 | 0 |
+| 〇 | [03_Use_vi](https://github.com/Tech-Share-Working-Group/Practice-Editor/tree/main/03_Use_vi) | vi | 〇 | 〇 | 0 |
+| 〇 | [04_Use_Vim](https://github.com/Tech-Share-Working-Group/Practice-Editor/tree/main/04_Use_Vim) | vim | 〇 | 〇 | 0 |
+|  | 05_Use_nano | nano | 〇 | 〇 | 0 |
+|  | 06_Install-Andtoid-Studio | Android Studio | 〇 | 〇 | 0 |
+
+### 3-1-6. Linux
+| ステータス | ディレクトリ名 | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+|  | Practice-Linux  | Linux | 〇 | 〇 | 0 |
+
 
 </br>
 
