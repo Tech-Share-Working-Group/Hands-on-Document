@@ -43,12 +43,10 @@
 | ステータス | ディレクトリ名 | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 〇 | [01_Install_Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker/tree/main/01_Install_Docker) | Docker | 〇 | 〇 | 0 |
-| 〇 | [02_Use_Docker](https://github.com/Tech-Share-Working-Group/Practice-Docker/tree/main/02_Use_Docker) | Docker | 〇 | 〇 | 0 |
-| 〇 | [03_Use_Docker_Interactive_mode](https://github.com/Tech-Share-Working-Group/Practice-Docker/tree/main/03_Use_Docker_Interactive_mode) | Docker(対話モード) | 〇 | 〇 | 0 |
-|  | 04_Use_Docker_Compose | Docker Compose | 〇 | 〇 | 0 |
-|  | 05_Use_Kubernetes_minikube | minikube | 〇 | 〇 | 0 |
-|  | 05_Use_Kubernetes_Kind | Kind | 〇 | 〇 | 0 |
-|  | 06_Use_Kubernetes_k0s | k0s | 〇 | 〇 | 0 |
+|  | 02_Use_Docker_Compose | Docker Compose | 〇 | 〇 | 0 |
+|  | 03_Use_Kubernetes_minikube | minikube | 〇 | 〇 | 0 |
+|  | 04_Use_Kubernetes_Kind | Kind | 〇 | 〇 | 0 |
+|  | 05_Use_Kubernetes_k0s | k0s | 〇 | 〇 | 0 |
 
 ### 3-1-4. Git, Github, Gitlab、On-premiss
 
