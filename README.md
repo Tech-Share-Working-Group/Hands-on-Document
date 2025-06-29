@@ -298,11 +298,11 @@
 
 | Repository Name |
 | ---- |
-| Practice-PHP-FrameWork |
+| [Practice-PHP-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-PHP-FrameWork/tree/main) |
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Laravel | Laravel | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Laravel](https://github.com/Tech-Share-Working-Group/Practice-PHP-FrameWork/tree/main/Practice-Laravel) | Laravel | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Symfony | Symfony | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-CodeIgniter | CodeIgniter | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-CakePHP | CakePHP | 〇 | 〇 | 〇 | 〇 | 0 |
