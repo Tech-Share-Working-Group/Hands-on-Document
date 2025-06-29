@@ -176,7 +176,7 @@
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-Ktor | Ktor | 〇 | 〇 | 〇 | 〇 | 0 |
-| | [Practice-Spring-Boot](https://github.com/Tech-Share-Working-Group/Practice-Kotlin-FrameWork/tree/main/Practice-Spring-Boot) | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Spring-Boot](https://github.com/Tech-Share-Working-Group/Practice-Kotlin-FrameWork/tree/main/Practice-Spring-Boot) | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Javalin | Javalin | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-http4k | http4k | 〇 | 〇 | 〇 | 〇 | 0 
 | | Practice-Vert_x | Vert.x | 〇 | 〇 | 〇 | 〇 | 0 |
