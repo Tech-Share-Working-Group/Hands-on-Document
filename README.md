@@ -387,7 +387,7 @@
 
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Oracle | Oracle | 〇 | 〇 | 0 |
+| △ | [Practice-Oracle](https://github.com/Tech-Share-Working-Group/Practice-Oracle/tree/main) | Oracle | 〇 | 〇 | 0 |
 | | Practice-MySQL | MySQL | 〇 | 〇 | 0 |
 | | Practice-PostgreSQL | PostgreSQL | 〇 | 〇 | 0 |
 | | Practice-SQLite | SQLite | 〇 | 〇 | 0 |
