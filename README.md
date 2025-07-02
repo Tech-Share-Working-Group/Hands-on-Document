@@ -248,6 +248,8 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Vapor](https://github.com/Tech-Share-Working-Group/Practice-Swift-FrameWork/tree/main/Practice-Vapor) | Vapor | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Hummingbird | Hummingbird | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Tokamak  | Tokamak  | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Feather-CMS  | Feather CMS  | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
