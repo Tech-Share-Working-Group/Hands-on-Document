@@ -324,7 +324,7 @@
 | △ | [Practice-Bottle](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Bottle) | Bottle | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Tornado](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Tornado) | Tornado | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Sanic](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Sanic) | Sanic | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Quart | Quart | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Quart](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Quart) | Quart | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-aiohttp | aiohttp | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
