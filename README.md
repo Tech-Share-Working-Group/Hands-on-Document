@@ -387,13 +387,13 @@
 
 ## 3-4. データベース
 
-| ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| △ | [Practice-Oracle](https://github.com/Tech-Share-Working-Group/Practice-Oracle/tree/main) | Oracle | 〇 | 〇 | 0 |
-| | Practice-MySQL | MySQL | 〇 | 〇 | 0 |
-| | Practice-PostgreSQL | PostgreSQL | 〇 | 〇 | 0 |
-| 〇 | [Practice-SQLite](https://github.com/Tech-Share-Working-Group/Practice-SQLite) | SQLite | 〇 | 〇 | 0 |
-| | Practice-SQL-Server | SQL Server | 〇 | 〇 | 0 |
+| ステータス | Repository Name | メインツール | DockerHub | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| △ | [Practice-Oracle](https://github.com/Tech-Share-Working-Group/Practice-Oracle/tree/main) | Oracle | None | 〇 | 〇 | 0 |
+| | Practice-MySQL | MySQL | [mysql](https://hub.docker.com/_/mysql/) | 〇 | 〇 | 0 |
+| | Practice-PostgreSQL | PostgreSQL | [postgres](https://hub.docker.com/_/postgres/) | 〇 | 〇 | 0 |
+| 〇 | [Practice-SQLite](https://github.com/Tech-Share-Working-Group/Practice-SQLite) | SQLite | None | 〇 | 〇 | 0 |
+| | Practice-SQL-Server | SQL Server | [mssql-server](https://hub.docker.com/r/microsoft/mssql-server/) | 〇 | 〇 | 0 |
 
 </br>
 
