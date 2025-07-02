@@ -103,8 +103,8 @@
 
 | ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-TypeScript | TypeScript | 5.8系~ | 〇 | 〇 | 0 |
-| △ | [Practice-Python](https://github.com/Tech-Share-Working-Group/Practice-Python) | Python, Pyenv, virtualenv, Poetry | 3.12~ | 〇 | 〇 | 0 |
+| | Practice-TypeScript | TypeScript | 5.8.0~ | 〇 | 〇 | 0 |
+| △ | [Practice-Python](https://github.com/Tech-Share-Working-Group/Practice-Python) | Python, Pyenv, virtualenv, Poetry, uv | 3.13~ | 〇 | 〇 | 0 |
 | | Practice-C-lang | C言語 | C11~ | 〇 | 〇 | 0 |
 | | Practice-Cpp | C++ | C++17~ | 〇 | 〇 | 0 |
 | | Practice-C-SHARP | C# | None | 〇 | 〇 | 0 |
