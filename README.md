@@ -402,12 +402,10 @@
 | ステータス | Repository Name | メインツール | 特徴 | DockerHub | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |  | Practice-Redis | Redis | キー・バリュー型 | None | 〇 | 〇 | 0 |
-|  | Practice-AWS-DynamoDB | Amazon DynamoDB | キー・バリュー型 | None | 〇 | 〇 | 0 |
+|  | Practice-Amazon-DynamoDB | Amazon DynamoDB | キー・バリュー型 | None | 〇 | 〇 | 0 |
 |  | Practice-MongoDB | MongoDB | ドキュメント型 | None | 〇 | 〇 | 0 |
-|  | Practice-AWS-DocumentDB | Amazon DocumentDB | ドキュメント型 | None | 〇 | 〇 | 0 |
 |  | Practice-Cassandra | Cassandra | カラム指向型 | None | 〇 | 〇 | 0 |
 |  | Practice-Neo4j | Neo4j | グラフ型 | None | 〇 | 〇 | 0 |
-|  | Practice-AWS-Neptune | Amazon Neptune | グラフ型 | None | 〇 | 〇 | 0 |
 
 </br>
 
