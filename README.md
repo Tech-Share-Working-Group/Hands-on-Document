@@ -310,26 +310,7 @@
 
 </br>
 
-### 3-3-12. Pythonのフレームワーク
-
-| Repository Name |
-| ---- |
-| [Practice-Python-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork) |
-
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 〇 | [Practice-Flask](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/blob/main/Practice-Flask) | Flask | 〇 | 〇 | 〇 | 〇 | 0 |
-| △ | [Practice-Django](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Django) | Django | 〇 | 〇 | 〇 | 〇 | 0 |
-| △ | [Practice-FastAPI](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-FastAPI) | FastAPI | 〇 | 〇 | 〇 | 〇 | 0 |
-| △ | [Practice-Bottle](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Bottle) | Bottle | 〇 | 〇 | 〇 | 〇 | 0 |
-| △ | [Practice-Tornado](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Tornado) | Tornado | 〇 | 〇 | 〇 | 〇 | 0 |
-| △ | [Practice-Sanic](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Sanic) | Sanic | 〇 | 〇 | 〇 | 〇 | 0 |
-| △ | [Practice-Quart](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Quart) | Quart | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-aiohttp | aiohttp | 〇 | 〇 | 〇 | 〇 | 0 |
-
-</br>
-
-### 3-3-13. Rubyのフレームワーク
+### 3-3-12. Rubyのフレームワーク
 
 | Repository Name |
 | ---- |
@@ -345,7 +326,7 @@
 
 </br>
 
-### 3-3-14. PHPのフレームワーク
+### 3-3-13. PHPのフレームワーク
 
 | Repository Name |
 | ---- |
@@ -360,6 +341,25 @@
 | | Practice-Phalcon | Phalcon | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Laminas | Laminas(旧?:Zend Framework) | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Yii | Yii | 〇 | 〇 | 〇 | 〇 | 0 |
+
+</br>
+
+### 3-3-14. Pythonのフレームワーク
+
+| Repository Name |
+| ---- |
+| [Practice-Python-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork) |
+
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 〇 | [Practice-Flask](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/blob/main/Practice-Flask) | Flask | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Django](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Django) | Django | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-FastAPI](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-FastAPI) | FastAPI | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Bottle](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Bottle) | Bottle | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Tornado](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Tornado) | Tornado | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Sanic](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Sanic) | Sanic | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Quart](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Quart) | Quart | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-aiohttp](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-aiohttp) | aiohttp | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
