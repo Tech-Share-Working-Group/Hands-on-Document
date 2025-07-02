@@ -396,6 +396,7 @@
 | | Practice-PostgreSQL | PostgreSQL | [postgres](https://hub.docker.com/_/postgres/) | 〇 | 〇 | 0 |
 | 〇 | [Practice-SQLite](https://github.com/Tech-Share-Working-Group/Practice-SQLite) | SQLite | None | 〇 | 〇 | 0 |
 | | Practice-SQL-Server | SQL Server | [mssql-server](https://hub.docker.com/r/microsoft/mssql-server/) | 〇 | 〇 | 0 |
+| | Practice-MariaDB | MariaDB | [mariadb](https://hub.docker.com/_/mariadb) | 〇 | 〇 | 0 |
 
 ### 3-4-2. NoSQL
 
