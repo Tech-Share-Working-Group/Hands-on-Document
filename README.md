@@ -389,7 +389,11 @@
 
 ### 3-4-1. RDB
 
-| ステータス | Repository Name | メインツール | DockerHub | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| Repository Name |
+| ---- |
+| [Practice-RDB]() |
+
+| ステータス | ディレクトリ名 | メインツール | DockerHub | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Oracle](https://github.com/Tech-Share-Working-Group/Practice-Oracle/tree/main) | Oracle | None | 〇 | 〇 | 0 |
 | 〇 | [Practice-MySQL](https://github.com/Tech-Share-Working-Group/Practice-MySQL/tree/main) | MySQL | [mysql](https://hub.docker.com/_/mysql/) | 〇 | 〇 | 0 |
@@ -400,7 +404,11 @@
 
 ### 3-4-2. NoSQL
 
-| ステータス | Repository Name | メインツール | 特徴 | DockerHub | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| Repository Name |
+| ---- |
+| Practice-NoSQL |
+
+| ステータス | ディレクトリ | メインツール | 特徴 | DockerHub | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |  | Practice-Redis | Redis | キー・バリュー型 | None | 〇 | 〇 | 0 |
 |  | Practice-Amazon-DynamoDB | Amazon DynamoDB | キー・バリュー型 | None | 〇 | 〇 | 0 |
