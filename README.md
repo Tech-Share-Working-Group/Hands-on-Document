@@ -387,6 +387,8 @@
 
 ## 3-4. データベース
 
+### 3-4-1. RDB
+
 | ステータス | Repository Name | メインツール | DockerHub | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Oracle](https://github.com/Tech-Share-Working-Group/Practice-Oracle/tree/main) | Oracle | None | 〇 | 〇 | 0 |
@@ -394,6 +396,18 @@
 | | Practice-PostgreSQL | PostgreSQL | [postgres](https://hub.docker.com/_/postgres/) | 〇 | 〇 | 0 |
 | 〇 | [Practice-SQLite](https://github.com/Tech-Share-Working-Group/Practice-SQLite) | SQLite | None | 〇 | 〇 | 0 |
 | | Practice-SQL-Server | SQL Server | [mssql-server](https://hub.docker.com/r/microsoft/mssql-server/) | 〇 | 〇 | 0 |
+
+### 3-4-2. NoSQL
+
+| ステータス | Repository Name | メインツール | 特徴 | DockerHub | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|  | Practice-Redis | Redis | キー・バリュー型 | None | 〇 | 〇 | 0 |
+|  | Practice-AWS-DynamoDB | Amazon DynamoDB | キー・バリュー型 | None | 〇 | 〇 | 0 |
+|  | Practice-MongoDB | MongoDB | ドキュメント型 | None | 〇 | 〇 | 0 |
+|  | Practice-AWS-DocumentDB | Amazon DocumentDB | ドキュメント型 | None | 〇 | 〇 | 0 |
+|  | Practice-Cassandra | Cassandra | カラム指向型 | None | 〇 | 〇 | 0 |
+|  | Practice-Neo4j | Neo4j | グラフ型 | None | 〇 | 〇 | 0 |
+|  | Practice-AWS-Neptune | Amazon Neptune | グラフ型 | None | 〇 | 〇 | 0 |
 
 </br>
 
