@@ -392,7 +392,7 @@
 | △ | [Practice-Oracle](https://github.com/Tech-Share-Working-Group/Practice-Oracle/tree/main) | Oracle | 〇 | 〇 | 0 |
 | | Practice-MySQL | MySQL | 〇 | 〇 | 0 |
 | | Practice-PostgreSQL | PostgreSQL | 〇 | 〇 | 0 |
-| | Practice-SQLite | SQLite | 〇 | 〇 | 0 |
+| 〇 | [Practice-SQLite](https://github.com/Tech-Share-Working-Group/Practice-SQLite) | SQLite | 〇 | 〇 | 0 |
 | | Practice-SQL-Server | SQL Server | 〇 | 〇 | 0 |
 
 </br>
