@@ -90,7 +90,7 @@
 
 | ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Java | Java, Junit, Maven, gradle | SE17~ | 〇 | 〇 | 0 |
+| | Practice-Java | Java, Junit, Maven, gradle | SE21~ | 〇 | 〇 | 0 |
 | | Practice-SQL | SQL | None | 〇 | 〇 | 0 |
 | | Practice-JavaScript | JavaScript, nvm, node | ES6~ | 〇 | 〇 | 0 |
 | | Practice-VBA | VBA | None | 〇 | 〇 | 0 |
