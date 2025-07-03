@@ -391,14 +391,14 @@
 
 | Repository Name |
 | ---- |
-| [Practice-RDB]() |
+| [Practice-RDB](https://github.com/Tech-Share-Working-Group/Practice-RDB) |
 
 | ステータス | ディレクトリ名 | メインツール | DockerHub | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| △ | [Practice-Oracle](https://github.com/Tech-Share-Working-Group/Practice-Oracle/tree/main) | Oracle | None | 〇 | 〇 | 0 |
-| 〇 | [Practice-MySQL](https://github.com/Tech-Share-Working-Group/Practice-MySQL/tree/main) | MySQL | [mysql](https://hub.docker.com/_/mysql/) | 〇 | 〇 | 0 |
+| 〇 | [Practice-Oracle](https://github.com/Tech-Share-Working-Group/Practice-RDB/tree/main/Practice-Oracle) | Oracle | None | 〇 | 〇 | 0 |
+| 〇 | [Practice-MySQL](https://github.com/Tech-Share-Working-Group/Practice-RDB/tree/main/Practice-MySQL) | MySQL | [mysql](https://hub.docker.com/_/mysql/) | 〇 | 〇 | 0 |
 | | Practice-PostgreSQL | PostgreSQL | [postgres](https://hub.docker.com/_/postgres/) | 〇 | 〇 | 0 |
-| 〇 | [Practice-SQLite](https://github.com/Tech-Share-Working-Group/Practice-SQLite) | SQLite | None | 〇 | 〇 | 0 |
+| 〇 | [Practice-SQLite](https://github.com/Tech-Share-Working-Group/Practice-RDB/tree/main/Practice-SQLite) | SQLite | None | 〇 | 〇 | 0 |
 | | Practice-SQL-Server | SQL Server | [mssql-server](https://hub.docker.com/r/microsoft/mssql-server/) | 〇 | 〇 | 0 |
 | | Practice-MariaDB | MariaDB | [mariadb](https://hub.docker.com/_/mariadb) | 〇 | 〇 | 0 |
 
