@@ -77,7 +77,7 @@
 |  | 06_Install-Andtoid-Studio | Android Studio | 〇 | 〇 | 0 |
 
 ### 3-1-6. Linux
-| ステータス | ディレクトリ名 | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |  | Practice-Linux  | Linux | 〇 | 〇 | 0 |
 
@@ -126,7 +126,7 @@
 | ---- | ---- |
 | [Practice-Java-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork) | [openjdk](https://hub.docker.com/_/openjdk/) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Servlet](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork/tree/main/Practice_Servlet) | Servlet | 〇 | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Spring-Framework | Spring Framework | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -147,7 +147,7 @@
 | ---- | ---- |
 | [Practice-JavaScript-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main) | [Node](https://hub.docker.com/_/node/) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-jQuery | jQuery | 〇 | 〇 | 〇 | None | 0 |
 | △ | [Practice-Express](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-Express) | Express | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -169,7 +169,7 @@
 | ---- | ---- |
 | [Practice-TypeScript-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-TypeScript-FrameWork/tree/main) | [Node](https://hub.docker.com/_/node/) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Express](https://github.com/Tech-Share-Working-Group/Practice-TypeScript-FrameWork/tree/main/Practice-Express) | Express | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-React | React | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -193,7 +193,7 @@
 | ---- | ---- |
 | [Practice-Go-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main) | [golang](https://hub.docker.com/_/golang) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Gin](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Gin) | Gin | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Echo | Echo | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -211,7 +211,7 @@
 | ---- | ---- |
 | [Practice-Rust-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Rust-FrameWork) | [rust](https://hub.docker.com/_/rust/) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Actix-Web](https://github.com/Tech-Share-Working-Group/Practice-Rust-FrameWork/tree/main/Practice-Actix-Web) | Actix Web | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Axum | Axum | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -228,7 +228,7 @@
 | ---- | ---- |
 | [Practice-Kotlin-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Kotlin-FrameWork/tree/main) | [openjdk](https://hub.docker.com/_/openjdk/) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-Ktor | Ktor | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Spring-Boot](https://github.com/Tech-Share-Working-Group/Practice-Kotlin-FrameWork/tree/main/Practice-Spring-Boot) | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -244,7 +244,7 @@
 | ---- | ---- |
 | [Practice-Swift-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Swift-FrameWork) | [swift](https://hub.docker.com/_/swift/) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Vapor](https://github.com/Tech-Share-Working-Group/Practice-Swift-FrameWork/tree/main/Practice-Vapor) | Vapor | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Hummingbird | Hummingbird | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -259,7 +259,7 @@
 | ---- | ---- |
 | [Practice-Dart-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Dart-FrameWork) | [dart](https://hub.docker.com/_/dart/) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Dart-Shelf](https://github.com/Tech-Share-Working-Group/Practice-Dart-FrameWork/tree/main/Practice-Dart-Shelf) | Shelf | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Dart-Jaguar | Jaguar | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -274,7 +274,7 @@
 | ---- | ---- |
 | [Practice-C-lang-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-C-lang-FrameWork) | [gcc](https://hub.docker.com/_/gcc/) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Civetweb](https://github.com/Tech-Share-Working-Group/Practice-C-lang-FrameWork/tree/main/Practice-Civetweb) | Civetweb | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-libmicrohttpd | libmicrohttpd | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -289,7 +289,7 @@
 | ---- | ---- |
 | [Practice-Cpp-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Cpp-FrameWork) | [gcc](https://hub.docker.com/_/gcc/) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-Crow | Crow | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Pistache | Pistache | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -304,7 +304,7 @@
 | ---- | ---- |
 | [Practice-C-SHARP-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-C-SHARP-FrameWork) | ? |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-ASP-dot-NET-core](https://github.com/Tech-Share-Working-Group/Practice-C-SHARP-FrameWork/tree/main/Practice-ASP-dot-NET-core) | ASP.NET core | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-ServiceStack | ServiceStack | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -318,7 +318,7 @@
 | ---- | ---- |
 | [Practice-Ruby-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Ruby-FrameWork/tree/main) | [ruby](https://hub.docker.com/_/ruby/) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Ruby-on-Rails](https://github.com/Tech-Share-Working-Group/Practice-Ruby-FrameWork/tree/main/Practice-Ruby-on-Rails) | Ruby on Rails | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Sinatra | Sinatra | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -334,7 +334,7 @@
 | ---- | ---- |
 | [Practice-PHP-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-PHP-FrameWork/tree/main) | [php](https://hub.docker.com/_/php/) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Laravel](https://github.com/Tech-Share-Working-Group/Practice-PHP-FrameWork/tree/main/Practice-Laravel) | Laravel | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Symfony | Symfony | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -352,7 +352,7 @@
 | ---- | ---- |
 | [Practice-Python-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork) | [python](https://hub.docker.com/_/python/) |
 
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | ボタン押下で画面遷移 | CRUDアプリ | 体験会の応募件数 |
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 〇 | [Practice-Flask](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/blob/main/Practice-Flask) | Flask | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Django](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Django) | Django | 〇 | 〇 | 〇 | 〇 | 0 |
