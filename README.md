@@ -341,7 +341,7 @@
 | 〇 | [Practice-Flask](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/blob/main/Practice-Flask) | Flask | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Django](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Django) | Django | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-FastAPI](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-FastAPI) | FastAPI | 〇 | 〇 | 〇 | 〇 | 0 |
-| △ | [Practice-Bottle](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Bottle) | Bottle | 〇 | 〇 | 〇 | 〇 | 0 |
+| 〇 | [Practice-Bottle](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Bottle) | Bottle | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Tornado](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Tornado) | Tornado | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Sanic](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Sanic) | Sanic | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Quart](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Quart) | Quart | 〇 | 〇 | 〇 | 〇 | 0 |
@@ -365,7 +365,6 @@
 | | Practice-Generative-AI | GAN, 「by Hugging Face」のライブラリ, LangChain, etc... | 生成AI | 〇 | 〇 | 0 |
 | | Practice-Natural-Language-Processing | spaCy, Transformers, gensim, etc... | 自然言語 | 〇 | 〇 | 0 |
 | | Practice-Graph-Neural-Networks | Pytorch-Geometric | ネットワーク | 〇 | 〇 | 0 |
-| | Practice-Python-TKinter | Pytorch-Tkinter | GUIアプリ | 〇 | 〇 | 0 |
 
 </br>
 
