@@ -399,7 +399,7 @@
 | 〇 | [Practice-MySQL](https://github.com/Tech-Share-Working-Group/Practice-RDB/tree/main/Practice-MySQL) | MySQL | [mysql](https://hub.docker.com/_/mysql/) | 〇 | 〇 | 0 |
 | 〇 | [Practice-PostgreSQL](https://github.com/Tech-Share-Working-Group/Practice-RDB/tree/main/Practice-PostgreSQL) | PostgreSQL | [postgres](https://hub.docker.com/_/postgres/) | 〇 | 〇 | 0 |
 | 〇 | [Practice-SQLite](https://github.com/Tech-Share-Working-Group/Practice-RDB/tree/main/Practice-SQLite) | SQLite | None | 〇 | 〇 | 0 |
-| | Practice-SQL-Server | SQL Server | [mssql-server](https://hub.docker.com/r/microsoft/mssql-server/) | 〇 | 〇 | 0 |
+| 〇 | [Practice-SQL-Server](https://github.com/Tech-Share-Working-Group/Practice-RDB/tree/main/Practice-SQL-Server) | SQL Server | [mssql-server](https://hub.docker.com/r/microsoft/mssql-server/) | 〇 | 〇 | 0 |
 | | Practice-MariaDB | MariaDB | [mariadb](https://hub.docker.com/_/mariadb) | 〇 | 〇 | 0 |
 
 ### 3-4-2. NoSQL
