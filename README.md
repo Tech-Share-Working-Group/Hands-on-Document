@@ -364,18 +364,6 @@
 
 </br>
 
-### 3-3-15. cobolのフレームワーク
-
-| Repository Name | DockerHub |
-| ---- | ---- |
-| [Practice-Cobol-FrameWork]() | [opensource-cobol](https://hub.docker.com/r/opensourcecobol/opensource-cobol) |
-
-| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  | [Practice-GnuCOBOL]() | GnuCOBOL | 〇 | 〇 | 〇 | 〇 | 0 |
-
-</br>
-
 ## 3-4. データベース
 
 ### 3-4-1. RDB
