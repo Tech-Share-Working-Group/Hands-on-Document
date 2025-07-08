@@ -229,7 +229,7 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Gin](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Gin) | Gin | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Echo](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Echo) | Echo | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Fiber | Fiber | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Fiber](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Fiber) | Fiber | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Beego | Beego | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Revel | Revel | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Chi | Chi | 〇 | 〇 | 〇 | 〇 | 0 |
