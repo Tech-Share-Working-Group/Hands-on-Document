@@ -106,7 +106,6 @@
 | | Practice-Play-Framework | Play Framework | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Ratpack | Ratpack | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Javalin | Javalin | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Struts2 | Struts2 | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
@@ -230,8 +229,6 @@
 | △ | [Practice-Gin](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Gin) | Gin | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Echo](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Echo) | Echo | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Fiber](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Fiber) | Fiber | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Beego | Beego | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Revel | Revel | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Chi | Chi | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Buffalo | Buffalo | 〇 | 〇 | 〇 | 〇 | 0 |
 
@@ -329,7 +326,6 @@
 | | Practice-CodeIgniter | CodeIgniter | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-CakePHP | CakePHP | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Phalcon | Phalcon | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Laminas | Laminas(旧?:Zend Framework) | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Yii | Yii | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
