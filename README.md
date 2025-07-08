@@ -271,7 +271,7 @@
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Dart-Shelf](https://github.com/Tech-Share-Working-Group/Practice-Dart-FrameWork/tree/main/Practice-Dart-Shelf) | Shelf | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Dart-Dart-Frog | Dart Frog | 〇 | 〇 | 〇 | 〇 | 0 |
+| | Practice-Dart-Frog | Dart Frog | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
