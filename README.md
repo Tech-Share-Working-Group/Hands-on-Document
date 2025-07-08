@@ -84,47 +84,16 @@
 
 </br>
 
-## 3-2. 言語系(基礎)
-
-### 3-2-1. 使用頻度が多い言語
-
-| ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 | 体験会の応募件数 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | [Practice-Java](https://github.com/Tech-Share-Working-Group/Practice-Java/tree/main) | Java, Junit, Maven, gradle | SE21~ | 〇 | 〇 | 0 |
-| | Practice-SQL | SQL | None | 〇 | 〇 | 0 |
-| | Practice-JavaScript | JavaScript, nvm, node | ES6~ | 〇 | 〇 | 0 |
-| | Practice-VBA | VBA | None | 〇 | 〇 | 0 |
-| | Practice-Shell | bat,  ksh, etc... | None | 〇 | 〇 | 0 |
-| | Practice-Cobol | Cobol | 3.2 | 〇 | 〇 | 0 |
-
 </br>
 
-### 3-2-2. 使用頻度が少ない言語
+## 3-2. 言語系(ライブラリ、フレームワーク)
 
-| ステータス | Repository Name | メイン言語 | バージョン | 構築手順 | 問題集 | 体験会の応募件数 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-TypeScript | TypeScript | 5.8.0~ | 〇 | 〇 | 0 |
-| △ | [Practice-Python](https://github.com/Tech-Share-Working-Group/Practice-Python) | Python, Pyenv, virtualenv, Poetry, uv | 3.13~ | 〇 | 〇 | 0 |
-| | Practice-C-lang | C言語 | C11~ | 〇 | 〇 | 0 |
-| | Practice-Cpp | C++ | C++17~ | 〇 | 〇 | 0 |
-| | Practice-C-SHARP | C# | None | 〇 | 〇 | 0 |
-| | Practice-Go | Go | None | 〇 | 〇 | 0 |
-| | Practice-Rust | Rust | None | 〇 | 〇 | 0 |
-| | Practice-Kotlin | Kotlin | None | 〇 | 〇 | 0 |
-| | Practice-Swift | Swift | None | 〇 | 〇 | 0 |
-| | Practice-Dart | Dart | None | 〇 | 〇 | 0 |
-| | Practice-PHP | PHP | None | 〇 | 〇 | 0 |
-| | Practice-Ruby | Ruby | None | 〇 | 〇 | 0 |
-
-</br>
-
-## 3-3. 言語系(ライブラリ、フレームワーク)
-
-### 3-3-1. Javaのフレームワーク
+### 3-2-1. Javaのフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
-| [Practice-Java-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork) | [openjdk](https://hub.docker.com/_/openjdk/) |
+| [Practice-Java](https://github.com/Tech-Share-Working-Group/Practice-Java/tree/main) | [openjdk](https://hub.docker.com/_/openjdk/) |
+| [Practice-Java-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork) | None |
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -141,7 +110,7 @@
 
 </br>
 
-### 3-3-2. JavaScriptとTypeScriptのフレームワーク
+### 3-2-2. JavaScriptとTypeScriptのフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
@@ -169,11 +138,12 @@
 | | Practice-Deno | Deno | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Hono | Hono | 〇 | 〇 | 〇 | 〇 | 0 |
 
-### 3-3-3. Pythonのフレームワーク
+### 3-2-3. Pythonのフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
-| [Practice-Python-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork) | [python](https://hub.docker.com/_/python/) |
+| [Practice-Python](https://github.com/Tech-Share-Working-Group/Practice-Python) | [python](https://hub.docker.com/_/python/) |
+| [Practice-Python-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork) | None |
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -188,7 +158,7 @@
 
 </br>
 
-### 3-3-4. Pythonの標準ライブラリ、機械学習関連ライブラリ
+### 3-2-4. Pythonの標準ライブラリ、機械学習関連ライブラリ
 
 | Repository Name | DockerHub |
 | ---- | ---- |
@@ -207,7 +177,7 @@
 
 </br>
 
-### 3-3-5. C言語のフレームワーク
+### 3-2-5. C言語のフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
@@ -222,7 +192,7 @@
 
 </br>
 
-### 3-3-6. C++のフレームワーク
+### 3-2-6. C++のフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
@@ -237,7 +207,7 @@
 
 </br>
 
-### 3-3-7. C#のフレームワーク
+### 3-2-7. C#のフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
@@ -249,7 +219,7 @@
 | | Practice-ServiceStack | ServiceStack | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Orleans | Orleans | 〇 | 〇 | 〇 | 〇 | 0 |
 
-### 3-3-8. Goのフレームワーク
+### 3-2-8. Goのフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
@@ -267,7 +237,7 @@
 
 </br>
 
-### 3-3-9. Rustのフレームワーク
+### 3-2-9. Rustのフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
@@ -284,7 +254,7 @@
 
 </br>
 
-### 3-3-10. Kotlinのフレームワーク
+### 3-2-10. Kotlinのフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
@@ -300,7 +270,7 @@
 
 </br>
 
-### 3-3-11. Swiftのフレームワーク
+### 3-2-11. Swiftのフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
@@ -315,7 +285,7 @@
 
 </br>
 
-### 3-3-12. Dartのフレームワーク
+### 3-2-12. Dartのフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
@@ -330,7 +300,7 @@
 
 </br>
 
-### 3-3-13. Rubyのフレームワーク
+### 3-2-13. Rubyのフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
@@ -346,7 +316,7 @@
 
 </br>
 
-### 3-3-14. PHPのフレームワーク
+### 3-2-14. PHPのフレームワーク
 
 | Repository Name | DockerHub |
 | ---- | ---- |
@@ -364,9 +334,9 @@
 
 </br>
 
-## 3-4. データベース
+## 3-3. データベース
 
-### 3-4-1. RDB
+### 3-3-1. RDB
 
 | Repository Name |
 | ---- |
@@ -381,7 +351,7 @@
 | 〇 | [Practice-SQL-Server](https://github.com/Tech-Share-Working-Group/Practice-RDB/tree/main/Practice-SQL-Server) | SQL Server | [mssql-server](https://hub.docker.com/r/microsoft/mssql-server/) | 〇 | 〇 | 0 |
 | 〇 | [Practice-MariaDB](https://github.com/Tech-Share-Working-Group/Practice-RDB/tree/main/Practice-MariaDB) | MariaDB | [mariadb](https://hub.docker.com/_/mariadb) | 〇 | 〇 | 0 |
 
-### 3-4-2. NoSQL
+### 3-3-2. NoSQL
 
 | Repository Name |
 | ---- |
@@ -397,7 +367,7 @@
 
 </br>
 
-## 3-5. クラウド
+## 3-4. クラウド
 
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -407,7 +377,7 @@
 
 </br>
 
-## 3-6. ローコード、ノーコード
+## 3-5. ローコード、ノーコード
 
 | ステータス | Repository Name | メインツール | 言語 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -420,7 +390,7 @@
 
 </br>
 
-## 3-7. その他
+## 3-6. その他
 
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
