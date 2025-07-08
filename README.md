@@ -242,7 +242,7 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Actix-Web](https://github.com/Tech-Share-Working-Group/Practice-Rust-FrameWork/tree/main/Practice-Actix-Web) | Actix Web | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Axum](https://github.com/Tech-Share-Working-Group/Practice-Rust-FrameWork/tree/main/Practice-Axum) | Axum | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Rocket | Rocket | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Rocket](https://github.com/Tech-Share-Working-Group/Practice-Rust-FrameWork/tree/main/Practice-Rocket) | Rocket | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Warp | Warp | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Salvo | Salvo | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-WebAssembly | WebAssembly(フレームワークではない) | 〇 | 〇 | 〇 | 〇 | 0 |
