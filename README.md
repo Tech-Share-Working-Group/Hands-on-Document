@@ -98,14 +98,9 @@
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Servlet](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork/tree/main/Practice_Servlet) | Servlet | 〇 | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Spring-Framework | Spring Framework | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Spring-Boot | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Micronaut | Micronaut | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Spring-WebFlux | Spring WebFlux | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Vert-x | Vert.x | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Play-Framework | Play Framework | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Ratpack | Ratpack | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Javalin | Javalin | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
@@ -184,9 +179,7 @@
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Civetweb](https://github.com/Tech-Share-Working-Group/Practice-C-lang-FrameWork/tree/main/Practice-Civetweb) | Civetweb | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-libmicrohttpd | libmicrohttpd | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Kore | Kore | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-onion | onion | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
@@ -199,9 +192,7 @@
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-Crow | Crow | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Pistache | Pistache | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Drogon](https://github.com/Tech-Share-Working-Group/Practice-Cpp-FrameWork/tree/main/Practice_Drogon) | Drogon | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Restbed | Restbed | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
@@ -214,8 +205,6 @@
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-ASP-dot-NET-core](https://github.com/Tech-Share-Working-Group/Practice-C-SHARP-FrameWork/tree/main/Practice-ASP-dot-NET-core) | ASP.NET core | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-ServiceStack | ServiceStack | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Orleans | Orleans | 〇 | 〇 | 〇 | 〇 | 0 |
 
 ### 3-2-8. Goのフレームワーク
 
@@ -244,7 +233,6 @@
 | △ | [Practice-Axum](https://github.com/Tech-Share-Working-Group/Practice-Rust-FrameWork/tree/main/Practice-Axum) | Axum | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Rocket](https://github.com/Tech-Share-Working-Group/Practice-Rust-FrameWork/tree/main/Practice-Rocket) | Rocket | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Warp | Warp | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Salvo | Salvo | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-WebAssembly | WebAssembly(フレームワークではない) | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
@@ -259,9 +247,6 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-Ktor | Ktor | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Spring-Boot](https://github.com/Tech-Share-Working-Group/Practice-Kotlin-FrameWork/tree/main/Practice-Spring-Boot) | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Javalin | Javalin | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-http4k | http4k | 〇 | 〇 | 〇 | 〇 | 0 
-| | Practice-Vert_x | Vert.x | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
@@ -274,9 +259,6 @@
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Vapor](https://github.com/Tech-Share-Working-Group/Practice-Swift-FrameWork/tree/main/Practice-Vapor) | Vapor | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Hummingbird | Hummingbird | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Tokamak  | Tokamak  | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Feather-CMS  | Feather CMS  | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
@@ -304,10 +286,6 @@
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Ruby-on-Rails](https://github.com/Tech-Share-Working-Group/Practice-Ruby-FrameWork/tree/main/Practice-Ruby-on-Rails) | Ruby on Rails | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Sinatra | Sinatra | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Hanami | Hanami | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Padrino | Padrino | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Grape | Grape | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
@@ -321,10 +299,7 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Laravel](https://github.com/Tech-Share-Working-Group/Practice-PHP-FrameWork/tree/main/Practice-Laravel) | Laravel | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Symfony | Symfony | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-CodeIgniter | CodeIgniter | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-CakePHP | CakePHP | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Phalcon | Phalcon | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Yii | Yii | 〇 | 〇 | 〇 | 〇 | 0 |
 
 </br>
 
