@@ -322,7 +322,7 @@
 
 | Repository Name |
 | ---- |
-| Practice-NoSQL |
+| [Practice-NoSQL](https://github.com/Tech-Share-Working-Group/Practice-NoSQL) |
 
 | ステータス | ディレクトリ | メインツール | DockerHub | 特徴 | DockerHub | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
