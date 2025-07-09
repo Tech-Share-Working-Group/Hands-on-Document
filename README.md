@@ -329,7 +329,7 @@
 | 〇 | [Practice-Redis](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Redis) | Redis | [redis](https://hub.docker.com/_/redis/) | キー・バリュー型 | None | 〇 | 〇 | 0 |
 | 作成できないので断念 | Practice-Amazon-DynamoDB | Amazon DynamoDB | [dynamodb-local](https://hub.docker.com/r/amazon/dynamodb-local/) | キー・バリュー型 | None | 〇 | 〇 | 0 |
 | 〇 | [Practice-MongoDB](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-MongoDB) | MongoDB | [mongo](https://hub.docker.com/_/mongo/) | ドキュメント型 | None | 〇 | 〇 | 0 |
-|  | Practice-Cassandra | Cassandra | [cassandra](https://hub.docker.com/_/cassandra/) | カラム指向型 | None | 〇 | 〇 | 0 |
+| 〇 | [Practice-Cassandra](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Cassandra) | Cassandra | [cassandra](https://hub.docker.com/_/cassandra/) | カラム指向型 | None | 〇 | 〇 | 0 |
 |  | Practice-Neo4j | Neo4j | [neo4j](https://hub.docker.com/_/neo4j/) | グラフ型 | None | 〇 | 〇 | 0 |
 
 </br>
