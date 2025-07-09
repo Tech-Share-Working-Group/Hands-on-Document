@@ -114,7 +114,7 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Express](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-Express) | Express | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-React](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-React) | React | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Next | Next | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Next](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-Next) | Next | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Vue | Vue | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Nuxt | Nuxt | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Angular | Angular | 〇 | 〇 | 〇 | 〇 | 0 |
