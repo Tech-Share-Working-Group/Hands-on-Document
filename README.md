@@ -326,7 +326,7 @@
 
 | ステータス | ディレクトリ | メインツール | DockerHub | 特徴 | DockerHub | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  | Practice-Redis | Redis | [redis](https://hub.docker.com/_/redis/) | キー・バリュー型 | None | 〇 | 〇 | 0 |
+| 〇 | [Practice-Redis](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Redis) | Redis | [redis](https://hub.docker.com/_/redis/) | キー・バリュー型 | None | 〇 | 〇 | 0 |
 |  | Practice-Amazon-DynamoDB | Amazon DynamoDB | [dynamodb-local](https://hub.docker.com/r/amazon/dynamodb-local/) | キー・バリュー型 | None | 〇 | 〇 | 0 |
 |  | Practice-MongoDB | MongoDB | [mongo](https://hub.docker.com/_/mongo/) | ドキュメント型 | None | 〇 | 〇 | 0 |
 |  | Practice-Cassandra | Cassandra | [cassandra](https://hub.docker.com/_/cassandra/) | カラム指向型 | None | 〇 | 〇 | 0 |
