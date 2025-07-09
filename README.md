@@ -97,7 +97,7 @@
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| △ | [Practice-Servlet](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork/tree/main/Practice_Servlet) | Servlet | 〇 | 〇 | 〇 | 〇 | 〇 | 0 |
+| △ | [Practice-Servlet](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork/tree/main/Practice-Servlet) | Servlet | 〇 | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Spring-Boot | Spring Boot | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Spring-WebFlux | Spring WebFlux | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Play-Framework | Play Framework | 〇 | 〇 | 〇 | 〇 | 0 |
