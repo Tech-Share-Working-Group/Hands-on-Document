@@ -117,7 +117,7 @@
 | △ | [Practice-Next](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-Next) | Next | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Vue](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-Vue) | Vue | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Nuxt](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-Nuxt) | Nuxt | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Angular | Angular | 〇 | 〇 | 〇 | 〇 | 0 |
+| 断念 | Practice-Angular | Angular | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-NestJS | NestJS | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Remix | Remix | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Svelt | Svelt | 〇 | 〇 | 〇 | 〇 | 0 |
