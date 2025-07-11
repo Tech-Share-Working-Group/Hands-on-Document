@@ -28,11 +28,15 @@
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 〇 | [Practice-WSL](https://github.com/Tech-Share-Working-Group/Practice-WSL) | WSL | 〇 | 〇 | 0 |
 
+</br>
+
 ### 3-1-2. セキュリティ
 
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |  | Practice-Security | None | ✕ | ✕ | 0 |
+
+</br>
 
 ### 3-1-3. Docker
 
@@ -48,6 +52,8 @@
 |  | 04_Use_Kubernetes_Kind | Kind | 〇 | 〇 | 0 |
 |  | 05_Use_Kubernetes_k0s | k0s | 〇 | 〇 | 0 |
 
+</br>
+
 ### 3-1-4. Git, Github, Gitlab、On-premiss
 
 | Repository Name |
@@ -60,6 +66,8 @@
 | 〇 | [02_Use_Git_to_Github](https://github.com/Tech-Share-Working-Group/Practice-Git/tree/main/02_Use_Git_to_Github) | Github | 〇 | 〇 | 0 |
 | 〇 | [03_Use_Git_to_GitLab](03_Use_Git_to_GitLab) | Gitlab | 〇 | 〇 | 0 |
 | 〇 | [04_Use_Git_to_On-premises](https://github.com/Tech-Share-Working-Group/Practice-Git/tree/main/04_Use_Git_to_On-premises) | Git on-premiss | 〇 | 〇 | 0 |
+
+</br>
 
 ### 3-1-5. エディタ、IDE
 
@@ -76,15 +84,15 @@
 |  | 05_Use_nano | nano | 〇 | 〇 | 0 |
 |  | 06_Install-Andtoid-Studio | Android Studio | 〇 | 〇 | 0 |
 
+</br>
+
 ### 3-1-6. Linux
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |  | Practice-Linux  | Linux | 〇 | 〇 | 0 |
 
 
-</br>
-
-</br>
+</br></br>
 
 ## 3-2. 言語系(ライブラリ、フレームワーク)
 
@@ -130,11 +138,31 @@
 | | Practice-Deno | Deno | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Hono | Hono | 〇 | 〇 | 〇 | 〇 | 0 |
 
-### 3-2-3. Pythonのフレームワーク
+</br>
+
+### 3-2-3. Pythonの標準ライブラリ、機械学習関連ライブラリ
 
 | Repository Name | DockerHub |
 | ---- | ---- |
 | [Practice-Python](https://github.com/Tech-Share-Working-Group/Practice-Python) | [python](https://hub.docker.com/_/python/) |
+
+| ステータス | ディレクトリ名 | ライブライ名 | 分野 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| | Practice-Std_Libraries | numpy, pandas, Matplotlib, Seaborn, scipy, OpenCV, csv, json, pickle, polars, etc... | データ処理ライブラリ | 〇 | 〇 | 0 |
+| | Practice-ScikitLearn | scikit-learn | 機械学習ツール | 〇 | 〇 | 0 |
+| | Practice-Tensorflow | tensorflow | 深層学習ツール | 〇 | 〇 | 0 |
+| | Practice-PyTorch | PyTorch | 深層学習ツール | 〇 | 〇 | 0 |
+| | Practice-Image-Processing | MediaPipe, YOLO, CNN, ViT, etc... | 画像 | 〇 | 〇 | 0 |
+| | Practice-Generative-AI | GAN, 「by Hugging Face」のライブラリ, LangChain, etc... | 生成AI | 〇 | 〇 | 0 |
+| | Practice-Natural-Language-Processing | spaCy, Transformers, gensim, etc... | 自然言語 | 〇 | 〇 | 0 |
+| | Practice-Graph-Neural-Networks | Pytorch-Geometric | ネットワーク | 〇 | 〇 | 0 |
+
+</br>
+
+### 3-2-4. Pythonのフレームワーク
+
+| Repository Name | DockerHub |
+| ---- | ---- |
 | [Practice-Python-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork) | None |
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
@@ -147,25 +175,6 @@
 | △ | [Practice-Sanic](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Sanic) | Sanic | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-Quart](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-Quart) | Quart | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-aiohttp](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork/tree/main/Practice-aiohttp) | aiohttp | 〇 | 〇 | 〇 | 〇 | 0 |
-
-</br>
-
-### 3-2-4. Pythonの標準ライブラリ、機械学習関連ライブラリ
-
-| Repository Name | DockerHub |
-| ---- | ---- |
-| Practice-Python-Libraries | [python](https://hub.docker.com/_/python/) |
-
-| ステータス | ディレクトリ名 | ライブライ名 | 分野 | 構築手順 | 簡易操作手順 | 体験会の応募件数 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Std_Libraries | numpy, pandas, Matplotlib, Seaborn, scipy, OpenCV, csv, json, pickle, polars, etc... | データ処理ライブラリ | 〇 | 〇 | 0 |
-| | Practice-ScikitLearn | scikit-learn | 機械学習ツール | 〇 | 〇 | 0 |
-| | Practice-Tensorflow | tensorflow | 深層学習ツール | 〇 | 〇 | 0 |
-| | Practice-PyTorch | PyTorch | 深層学習ツール | 〇 | 〇 | 0 |
-| | Practice-Image-Processing | MediaPipe, YOLO, CNN, ViT, etc... | 画像 | 〇 | 〇 | 0 |
-| | Practice-Generative-AI | GAN, 「by Hugging Face」のライブラリ, LangChain, etc... | 生成AI | 〇 | 〇 | 0 |
-| | Practice-Natural-Language-Processing | spaCy, Transformers, gensim, etc... | 自然言語 | 〇 | 〇 | 0 |
-| | Practice-Graph-Neural-Networks | Pytorch-Geometric | ネットワーク | 〇 | 〇 | 0 |
 
 </br>
 
@@ -204,6 +213,8 @@
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 | 体験会の応募件数 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-ASP-dot-NET-core](https://github.com/Tech-Share-Working-Group/Practice-C-SHARP-FrameWork/tree/main/Practice-ASP-dot-NET-core) | ASP.NET core | 〇 | 〇 | 〇 | 〇 | 0 |
+
+</br>
 
 ### 3-2-8. Goのフレームワーク
 
@@ -296,7 +307,7 @@
 | | Practice-Symfony | Symfony | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-CakePHP | CakePHP | 〇 | 〇 | 〇 | 〇 | 0 |
 
-</br>
+</br></br>
 
 ## 3-3. データベース
 
@@ -315,6 +326,8 @@
 | 〇 | [Practice-SQL-Server](https://github.com/Tech-Share-Working-Group/Practice-RDB/tree/main/Practice-SQL-Server) | SQL Server | [mssql-server](https://hub.docker.com/r/microsoft/mssql-server/) | 〇 | 〇 | 0 |
 | 〇 | [Practice-MariaDB](https://github.com/Tech-Share-Working-Group/Practice-RDB/tree/main/Practice-MariaDB) | MariaDB | [mariadb](https://hub.docker.com/_/mariadb) | 〇 | 〇 | 0 |
 
+</br>
+
 ### 3-3-2. NoSQL
 
 | Repository Name |
@@ -329,7 +342,7 @@
 | 〇 | [Practice-Cassandra](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Cassandra) | Cassandra | [cassandra](https://hub.docker.com/_/cassandra/) | カラム指向型 | None | 〇 | 〇 | 0 |
 | 〇 | [Practice-Neo4j](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Neo4j) | Neo4j | [neo4j](https://hub.docker.com/_/neo4j/) | グラフ型 | None | 〇 | 〇 | 0 |
 
-</br>
+</br></br>
 
 ## 3-4. クラウド
 
@@ -339,7 +352,7 @@
 | | Practice-Azure | Azure | 〇 | 〇 | 0 |
 | | Practice-GCP | GCP | 〇 | 〇 | 0 |
 
-</br>
+</br></br>
 
 ## 3-5. ローコード、ノーコード
 
@@ -352,7 +365,7 @@
 | | Practice-Budibase | Budibase | JavaScrit | 〇 | 〇 | 0 |
 | | Practice-Retool | Retool | JavaScrit | 〇 | 〇 | 0 |
 
-</br>
+</br></br>
 
 ## 3-6. その他
 
