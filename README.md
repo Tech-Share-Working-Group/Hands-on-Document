@@ -119,7 +119,7 @@
 | △ | [Practice-Nuxt](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-Nuxt) | Nuxt | 〇 | 〇 | 〇 | 〇 | 0 |
 | 断念 | Practice-Angular | Angular | 〇 | 〇 | 〇 | 〇 | 0 |
 | △ | [Practice-NestJS](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-NestJS) | NestJS | 〇 | 〇 | 〇 | 〇 | 0 |
-| | Practice-Remix | Remix | 〇 | 〇 | 〇 | 〇 | 0 |
+| 断念 | Practice-Remix | Remix | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Svelt | Svelt | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Koa | Koa | 〇 | 〇 | 〇 | 〇 | 0 |
 | | Practice-Fastify | Fastify | 〇 | 〇 | 〇 | 〇 | 0 |
