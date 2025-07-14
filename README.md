@@ -334,7 +334,7 @@
 | ---- |
 | [Practice-NoSQL](https://github.com/Tech-Share-Working-Group/Practice-NoSQL) |
 
-| ステータス | ディレクトリ | メインツール | DockerHub | 特徴 | DockerHub | 構築手順 | 簡易操作手順 |
+| ステータス | ディレクトリ名 | メインツール | DockerHub | 特徴 | DockerHub | 構築手順 | 簡易操作手順 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 〇 | [Practice-Redis](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Redis) | Redis | [redis](https://hub.docker.com/_/redis/) | キー・バリュー型 | None | 〇 | 〇 |
 | 作成できないので断念 | Practice-Amazon-DynamoDB | Amazon DynamoDB | [dynamodb-local](https://hub.docker.com/r/amazon/dynamodb-local/) | キー・バリュー型 | None | 〇 | 〇 |
@@ -346,7 +346,11 @@
 
 ## 3-4. クラウド
 
-| ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 |
+| Repository Name |
+| ---- |
+| Practice-Cloud |
+
+| ステータス | ディレクトリ名 | メインツール | 構築手順 | 簡易操作手順 |
 | ---- | ---- | ---- | ---- | ---- |
 | | Practice-AWS | AWS | 〇 | 〇 |
 | | Practice-Azure | Azure | 〇 | 〇 |
@@ -356,7 +360,11 @@
 
 ## 3-5. ローコード、ノーコード
 
-| ステータス | Repository Name | メインツール | 言語 | 構築手順 | 簡易操作手順 |
+| Repository Name |
+| ---- |
+| Practice-Low-No-Code |
+
+| ステータス | ディレクトリ名 | メインツール | 言語 | 構築手順 | 簡易操作手順 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | | Practice-WebPerformer | Web Performer | Java | 〇 | 〇 |
 | | Practice-OutSystems | OutSystems | Java | 〇 | 〇 |
@@ -369,8 +377,13 @@
 
 ## 3-6. その他
 
-| ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 |
+| Repository Name |
+| ---- |
+| Practice-sonota-tool |
+
+| ステータス | ディレクトリ名 | メインツール | 構築手順 | 簡易操作手順 |
 | ---- | ---- | ---- | ---- | ---- |
+| | Practice-JUnit | JUnit | 〇 | 〇 |
 | | Practice-Jenkins | Jenkins | 〇 | 〇 |
 | | Practice-Terraform | Terraform | 〇 | 〇 |
 | | Practice-API | REST, gRPC, GraphQL | 〇 | 〇 |
