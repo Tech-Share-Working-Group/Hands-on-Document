@@ -148,7 +148,7 @@
 
 | ステータス | ディレクトリ名 | ライブライ名 | 分野 | 構築手順 | 簡易操作手順 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| | Practice-Std_Libraries | numpy, pandas, Matplotlib, Seaborn, scipy, OpenCV, csv, json, pickle, polars, etc... | データ処理ライブラリ | 〇 | 〇 |
+| △ | [Practice-Std_Libraries](https://github.com/Tech-Share-Working-Group/Practice-Python/tree/main/Practice-Std_Libraries) | numpy, pandas, Matplotlib, Seaborn, scipy, OpenCV, csv, json, pickle, polars, etc... | データ処理ライブラリ | 〇 | 〇 |
 | | Practice-ScikitLearn | scikit-learn | 機械学習ツール | 〇 | 〇 |
 | | Practice-Tensorflow | tensorflow | 深層学習ツール | 〇 | 〇 |
 | | Practice-PyTorch | PyTorch | 深層学習ツール | 〇 | 〇 |
