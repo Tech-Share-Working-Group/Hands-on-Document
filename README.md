@@ -169,7 +169,7 @@
 
 | Repository Name | DockerHub |
 | ---- | ---- |
-| [Practice-Python-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork) | None |
+| [Practice-Python-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Python-FrameWork) | [python](https://hub.docker.com/_/python/) |
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 | CRUD機能 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -340,27 +340,62 @@
 | ---- |
 | [Practice-NoSQL](https://github.com/Tech-Share-Working-Group/Practice-NoSQL) |
 
-| ステータス | ディレクトリ名 | メインツール | DockerHub | 特徴 | DockerHub | 構築手順 | 簡易操作手順 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 〇 | [Practice-Redis](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Redis) | Redis | [redis](https://hub.docker.com/_/redis/) | キー・バリュー型 | None | 〇 | 〇 |
-| 〇 | [Practice-Amazon-DynamoDB](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Amazon-DynamoDB) | Amazon DynamoDB | [dynamodb-local](https://hub.docker.com/r/amazon/dynamodb-local/) | キー・バリュー型 | None | 〇 | 〇 |
-| 〇 | [Practice-MongoDB](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-MongoDB) | MongoDB | [mongo](https://hub.docker.com/_/mongo/) | ドキュメント型 | None | 〇 | 〇 |
-| 〇 | [Practice-Cassandra](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Cassandra) | Cassandra | [cassandra](https://hub.docker.com/_/cassandra/) | カラム指向型 | None | 〇 | 〇 |
-| 〇 | [Practice-Neo4j](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Neo4j) | Neo4j | [neo4j](https://hub.docker.com/_/neo4j/) | グラフ型 | None | 〇 | 〇 |
+| ステータス | ディレクトリ名 | メインツール | DockerHub | 特徴 | 構築手順 | 簡易操作手順 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 〇 | [Practice-Redis](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Redis) | Redis | [redis](https://hub.docker.com/_/redis/) | キー・バリュー型 | 〇 | 〇 |
+| 〇 | [Practice-MongoDB](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-MongoDB) | MongoDB | [mongo](https://hub.docker.com/_/mongo/) | ドキュメント型 | 〇 | 〇 |
+| 〇 | [Practice-Cassandra](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Cassandra) | Cassandra | [cassandra](https://hub.docker.com/_/cassandra/) | カラム指向型 | 〇 | 〇 |
+| 〇 | [Practice-Neo4j](https://github.com/Tech-Share-Working-Group/Practice-NoSQL/tree/main/Practice-Neo4j) | Neo4j | [neo4j](https://hub.docker.com/_/neo4j/) | グラフ型 | 〇 | 〇 |
 
 </br></br>
 
 ## 3-4. クラウド
 
+### 3-4-1. AWS
+
 | Repository Name |
 | ---- |
-| Practice-Cloud |
+| Practice-AWS |
 
 | ステータス | ディレクトリ名 | メインツール | 構築手順 | 簡易操作手順 |
 | ---- | ---- | ---- | ---- | ---- |
-| | Practice-AWS | AWS | 〇 | 〇 |
-| | Practice-Azure | Azure | 〇 | 〇 |
-| | Practice-GCP | GCP | 〇 | 〇 |
+| 〇 | [Practice-Amazon-DynamoDB](https://github.com/Tech-Share-Working-Group/Practice-AWS/tree/main/Practice-Amazon-DynamoDB) | Amazon DynamoDB | 〇 | 〇 |
+|  | Practice-LocalStack | LocalStack | 〇 | 〇 |
+|  | Practice-AWS-lambda | lambda | 〇 | 〇 |
+|  | Practice-AWS-SAM-Local | AWS SAM Local(lambda) | 〇 | 〇 |
+|  | Practice-MinIO | MinIO | 〇 | 〇 |
+|  | Practice-AWS-Step-Functions-Local | AWS Step Functions Local | 〇 | 〇 |
+
+</br>
+
+### 3-4-2. Azure
+
+| Repository Name |
+| ---- |
+| Practice-Azure |
+
+| ステータス | ディレクトリ名 | メインツール | 構築手順 | 簡易操作手順 |
+| ---- | ---- | ---- | ---- | ---- |
+|  | Practice-Azure-Storage-Emulator | Azure Storage Emulator | 〇 | 〇 |
+|  | Practice-Azure-Cosmos-DB-Emulator | Azure Cosmos DB Emulator | 〇 | 〇 |
+|  | Practice-Azure-Functions-Core-Tools | Azure Functions Core Tools | 〇 | 〇 |
+|  | practice-Azurite | Azurite | 〇 | 〇 |
+
+</br>
+
+### 3-4-3. Google Cloud
+
+| Repository Name |
+| ---- |
+| Practice-Azure |
+
+| ステータス | ディレクトリ名 | メインツール | 構築手順 | 簡易操作手順 |
+| ---- | ---- | ---- | ---- | ---- |
+|  | Practice-Datastore-Emulator | Datastore Emulator | 〇 | 〇 |
+|  | Practice-Pub-Sub-Emulator | Pub/Sub Emulator | 〇 | 〇 |
+|  | Practice-Firestore-Emulator | Firestore Emulator | 〇 | 〇 |
+|  | Practice-Bigtable-Emulator | Bigtable Emulator | 〇 | 〇 |
+|  | Practice-Storage-Emulator | Storage Emulator | 〇 | 〇 |
 
 </br></br>
 
