@@ -89,8 +89,14 @@
 ### 3-1-6. Linux
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 |
 | ---- | ---- | ---- | ---- | ---- |
-|  | Practice-Linux  | Linux | 〇 | 〇 |
+|  | Practice-Linux | Linux | 〇 | 〇 |
 
+</br>
+
+### 3-1-7. SVN
+| ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 |
+| ---- | ---- | ---- | ---- | ---- |
+| 〇 | [Practice-SVN](https://github.com/Tech-Share-Working-Group/Practice-SVN) | SVN | 〇 | 〇 |
 
 </br></br>
 
@@ -387,7 +393,6 @@
 | | Practice-Jenkins | Jenkins | 〇 | 〇 |
 | | Practice-Terraform | Terraform | 〇 | 〇 |
 | | Practice-API | REST, gRPC, GraphQL | 〇 | 〇 |
-| | Practice-SVN | SVN | 〇 | 〇 |
 
 </br>
 
