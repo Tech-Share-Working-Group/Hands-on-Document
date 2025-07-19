@@ -355,7 +355,7 @@
 
 | Repository Name |
 | ---- |
-| Practice-AWS |
+| [Practice-AWS](https://github.com/Tech-Share-Working-Group/Practice-AWS/tree/main) |
 
 | ステータス | ディレクトリ名 | メインツール | 構築手順 | 簡易操作手順 |
 | ---- | ---- | ---- | ---- | ---- |
