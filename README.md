@@ -113,7 +113,6 @@
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 〇 | [Practice-Servlet](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork/tree/main/Practice-Servlet) | Servlet | 〇 | 〇 | 〇 | 〇 |
 | 〇 | [Practice-Spring-Boot](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork/tree/main/Practice-Spring-Boot) | Spring Boot | 〇 | 〇 | 〇 |
-| | Practice-Spring-WebFlux | Spring WebFlux | 〇 | 〇 | 〇 |
 | | Practice-Play-Framework | Play Framework | 〇 | 〇 | 〇 |
 
 </br>
