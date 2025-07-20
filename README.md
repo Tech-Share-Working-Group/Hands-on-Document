@@ -229,10 +229,10 @@
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| △ | [Practice-Gin](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Gin) | Gin | 〇 | 〇 | 〇 |
-| △ | [Practice-Echo](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Echo) | Echo | 〇 | 〇 | 〇 |
-| △ | [Practice-Fiber](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Fiber) | Fiber | 〇 | 〇 | 〇 |
-| △ | [Practice-Chi](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Chi) | Chi | 〇 | 〇 | 〇 |
+| 〇 | [Practice-Gin](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Gin) | Gin | 〇 | 〇 | 〇 |
+| 〇 | [Practice-Echo](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Echo) | Echo | 〇 | 〇 | 〇 |
+| 〇 | [Practice-Fiber](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Fiber) | Fiber | 〇 | 〇 | 〇 |
+| 〇 | [Practice-Chi](https://github.com/Tech-Share-Working-Group/Practice-Go-FrameWork/tree/main/Practice-Chi) | Chi | 〇 | 〇 | 〇 |
 
 </br>
 
