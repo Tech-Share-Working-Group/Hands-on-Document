@@ -191,7 +191,7 @@
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| △ | [Practice-Civetweb](https://github.com/Tech-Share-Working-Group/Practice-C-lang-FrameWork/tree/main/Practice-Civetweb) | Civetweb | 〇 | 〇 | 〇 |
+| 〇 | [Practice-Civetweb](https://github.com/Tech-Share-Working-Group/Practice-C-lang-FrameWork/tree/main/Practice-Civetweb) | Civetweb | 〇 | 〇 | 〇 |
 | | Practice-Kore | Kore | 〇 | 〇 | 〇 |
 
 </br>
