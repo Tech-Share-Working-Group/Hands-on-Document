@@ -106,7 +106,7 @@
 
 | Repository Name | DockerHub |
 | ---- | ---- |
-| [Practice-Java](https://github.com/Tech-Share-Working-Group/Practice-Java/tree/main) | [openjdk](https://hub.docker.com/_/openjdk/) |
+| [Practice-Java](https://github.com/Tech-Share-Working-Group/Practice-Java/tree/main) | [openjdk](https://hub.docker.com/_/openjdk/), [eclipse-temurin](https://hub.docker.com/_/eclipse-temurin/), [zulu-openjdk](https://hub.docker.com/r/azul/zulu-openjdk/), [amazoncorretto](https://hub.docker.com/_/amazoncorretto) |
 | [Practice-Java-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-Java-FrameWork) | None |
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 |
@@ -121,7 +121,7 @@
 
 | Repository Name | DockerHub |
 | ---- | ---- |
-| [Practice-JavaScript-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork) | [Node](https://hub.docker.com/_/node/) |
+| [Practice-JavaScript-FrameWork](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork) | [node](https://hub.docker.com/_/node/), [deno](https://hub.docker.com/r/denoland/deno/) |
 
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
