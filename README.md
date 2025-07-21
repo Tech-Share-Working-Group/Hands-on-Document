@@ -126,6 +126,7 @@
 | ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | △ | [Practice-Express](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-Express) | Express | 〇 | 〇 | 〇 |
+| | Practice-Hono | Hono | 〇 | 〇 | 〇 |
 | △ | [Practice-React](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-React) | React | 〇 | 〇 | 〇 |
 | △ | [Practice-Next](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-Next) | Next | 〇 | 〇 | 〇 |
 | △ | [Practice-Vue](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-Vue) | Vue | 〇 | 〇 | 〇 |
@@ -141,7 +142,6 @@
 | | Practice-Astro | Astro | 〇 | 〇 | 〇 |
 | | Practice-Qwik | Qwik | 〇 | 〇 | 〇 |
 | | Practice-Deno | Deno | 〇 | 〇 | 〇 |
-| | Practice-Hono | Hono | 〇 | 〇 | 〇 |
 
 </br>
 
