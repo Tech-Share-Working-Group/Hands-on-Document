@@ -145,6 +145,8 @@
 
 #### 3-2-2-3. full-stack
 
+| ステータス | ディレクトリ名 | フレームワーク | 構築手順 | 「Hello World」表示 | 画面遷移機能 |
+| ---- | ---- | ---- | ---- | ---- | ---
 | △ | [Practice-Next](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-Next) | Next | 〇 | 〇 | 〇 |
 | △ | [Practice-Nuxt](https://github.com/Tech-Share-Working-Group/Practice-JavaScript-FrameWork/tree/main/Practice-Nuxt) | Nuxt | 〇 | 〇 | 〇 |
 | 断念 | Practice-Remix | Remix | 〇 | 〇 | 〇 |
