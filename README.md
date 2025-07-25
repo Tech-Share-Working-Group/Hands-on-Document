@@ -89,7 +89,7 @@
 ### 3-1-6. Linux
 | ステータス | Repository Name | メインツール | 構築手順 | 簡易操作手順 |
 | ---- | ---- | ---- | ---- | ---- |
-|  | Practice-Linux | Linux | 〇 | 〇 |
+| △ | [Practice-Linux](https://github.com/Tech-Share-Working-Group/Practice-Linux) | Linux | 〇 | 〇 |
 
 </br>
 
